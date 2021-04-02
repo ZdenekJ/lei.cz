@@ -1,0 +1,32 @@
+{
+  "name": "lei.cz",
+  "version": "1.0.0",
+  "description": "Můj web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZdenekJ/lei.cz.git"
+  },
+  "author": "Zdeněk Jašek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZdenekJ/lei.cz/issues"
+  },
+  "homepage": "https://github.com/ZdenekJ/lei.cz#readme",
+  "dependencies": {
+    "nuxt": "^2.15.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
+    "fibers": "^5.0.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1"
+  }
+}

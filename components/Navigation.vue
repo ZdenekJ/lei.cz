@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <u class="nav nav-tabs nav-justified main-menu">
+    <ul class="nav nav-tabs nav-justified main-menu">
       <router-link to="/" class="home" active-class="active" tag="li" exact
         ><a title="Co je nového">Novinky</a></router-link
       >
@@ -21,7 +21,7 @@
       <router-link to="/blog/" class="blog" active-class="active" tag="li"
         ><a title="Prostě blog">Blog</a>
       </router-link>
-    </u>
+    </ul>
   </nav>
 </template>
 

@@ -6,9 +6,8 @@
       >
       <router-link
         to="/tvorba/"
-        class="creations"
-        active-class="active"
         tag="li"
+        v-bind:class="isCreationsRoute ? 'creations active' : 'creations'"
         ><a title="Moje tvorba - povídky, básničky a pod.">Tvorba</a>
       </router-link>
       <router-link
@@ -22,72 +21,57 @@
         ><a title="Prostě blog">Blog</a>
       </router-link>
     </ul>
+    <ul class="nav nav-pills sub-menu" v-show="isCreationsRoute">
+      <router-link
+        to="/povidky/"
+        class="creations"
+        active-class="creations--active"
+        tag="li"
+        ><a title="Povídky">Povídky</a>
+      </router-link>
+      <router-link
+        to="/basnicky/"
+        class="creations"
+        active-class="creations--active"
+        tag="li"
+        ><a title="Moje pokusy na poli poezie">Básničky</a>
+      </router-link>
+      <router-link
+        to="/textiky/"
+        class="creations"
+        active-class="creations--active"
+        tag="li"
+        ><a title="Krátké texty, obvykle poněkud praštěné ;)">Textíky</a>
+      </router-link>
+    </ul>
   </nav>
 </template>
 
 <script>
+import { CREATIONS_PATHS } from "~/config.js";
 export default {
   name: "Navigation",
+
+  computed: {
+    isCreationsRoute() {
+      // console.log(CREATIONS_PATHS);
+      // console.log("Route name:  " + this.$route.name);
+
+      if (CREATIONS_PATHS.includes(this.$route.name)) {
+        return true;
+      } else {
+        return false;
+      }
+    },
+  },
 };
 </script>
 
 <style lang="scss" scoped>
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  font-family: "Headland One", Arial, sans-serif;
-  letter-spacing: 0.1rem;
-}
-li {
-  position: relative;
-  display: flex;
-  height: 3rem;
-  margin-bottom: 0.25rem;
-  justify-content: center;
-  align-items: center;
-
-  &::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    border-radius: 0.3em;
-    display: block;
-    width: 1em;
-    height: 100%;
-    z-index: -1;
-    opacity: 1;
-    transition: all 0.2s ease;
+.sub-menu {
+  .creations:hover a,
+  .creations--active a {
+    background: rgba(144, 82, 0, 0.2);
   }
-
-  &.active,
-  &:hover {
-    &::before {
-      width: 100%;
-    }
-
-    a {
-      color: #eee;
-    }
-  }
-}
-.home::before {
-  background-color: var(--menu-home-color);
-}
-.creations::before {
-  background-color: var(--menu-creations-color);
-}
-.guestbook::before {
-  background-color: var(--menu-guestbook-color);
-}
-.blog::before {
-  background-color: var(--menu-blog-color);
-}
-a {
-  text-decoration: none;
-}
-.active {
-  font-weight: bold;
 }
 </style>

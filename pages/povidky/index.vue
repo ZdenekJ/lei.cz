@@ -6,4 +6,22 @@
   </article>
 </template>
 
-<script></script>
+<script>
+export default {
+  head() {
+    return {
+      htmlAttrs: { lang: "cs" },
+    };
+  },
+  async asyncData({ $content }) {
+    const povidky = await $content("povidky")
+      .sortBy("date", "desc")
+      .limit(5)
+      .fetch();
+    console.log(povidky);
+    return {
+      povidky,
+    };
+  },
+};
+</script>

@@ -6,4 +6,11 @@
   </article>
 </template>
 
-<script></script>
+<script>
+export default {
+  head() {
+    return {
+      htmlAttrs: { lang: "cs" },
+    };
+  },
+};</script>

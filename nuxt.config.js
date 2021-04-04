@@ -40,4 +40,14 @@ export default {
   },
   components: true,
   modules: ["@nuxt/content"],
+  hooks: {
+    // Transformace MD souboru před parsovanim
+    "content:file:beforeParse": (file) => {
+      if (file.extension !== ".md") return;
+      file.data = file.data.replace(
+        /^(„)+/gm,
+        '<span class="opening-quote">„</span>'
+      );
+    },
+  },
 };

@@ -4,7 +4,7 @@ description: Po "Pánu snů" se ozvalo několik čtenářek (i čtenářů), že
 date: 18. 10. 2012
 ---
 
-#Holka z baru
+# Holka z baru
 
 Pomalu jsem kráčel do kopce a znovu vrhl rychlý pohled na slečnu, kterou jsem držel kolem pasu a teď ji nahoru tak trochu táhnul. Usmívala se a v mojí bundě jí snad bylo i teplo. Vypadala spokojeně. Zato mně jen v triku byla docela zima, ale o to rychleji mizel alkoholový závoj. Znovu jsem se snažil vzpomenout, jak se to vlastně seběhlo.
 

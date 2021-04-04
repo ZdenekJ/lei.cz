@@ -11,6 +11,7 @@ export default {
   head() {
     return {
       htmlAttrs: { lang: "cs" },
+      titleTemplate: "Básničky | Lei.cz",
     };
   },
 };

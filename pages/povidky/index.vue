@@ -11,12 +11,12 @@ export default {
   head() {
     return {
       htmlAttrs: { lang: "cs" },
+      titleTemplate: "Povídky | Lei.cz",
     };
   },
   async asyncData({ $content }) {
     const povidky = await $content("povidky")
-      .sortBy("date", "desc")
-      .limit(5)
+      .sortBy("title")
       .fetch();
     console.log(povidky);
     return {

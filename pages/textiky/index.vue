@@ -11,6 +11,8 @@ export default {
   head() {
     return {
       htmlAttrs: { lang: "cs" },
+      titleTemplate: "Textíky | Lei.cz",
     };
   },
-};</script>
+};
+</script>

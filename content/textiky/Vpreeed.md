@@ -1,5 +1,6 @@
 ---
 title: Vpřéééd
+description: Netradiční pohled na sílu davu, nesamostatné myšlení či neschopnost uniknout stereotypu
 date: 2004-08-25
 author: Lei
 ---

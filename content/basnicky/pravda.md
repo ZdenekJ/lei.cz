@@ -6,35 +6,35 @@ author: Lei
 
 # Pravda
 
-Pozor pozor pozor
-je tu velká novina:
-Já jsem našel pravdu!
-Je krásná, svatá, nevinná.
+Pozor pozor pozor<br />
+je tu velká novina:<br />
+Já jsem našel pravdu!<br />
+Je krásná, svatá, nevinná.<br /><br />
 
-Přede mnou na stole leží
-je hřejivá a krásná.
-Věřím tomu jenom stěží
-jak je ta pravda čistě jasná.
+Přede mnou na stole leží<br />
+je hřejivá a krásná.<br />
+Věřím tomu jenom stěží<br />
+jak je ta pravda čistě jasná.<br /><br />
 
-Je milá, čistá, hřejivá
-hladí srdce i duši
-a kdo se na ni podívá
-potvrdí si, co tuší
+Je milá, čistá, hřejivá<br />
+hladí srdce i duši<br />
+a kdo se na ni podívá<br />
+potvrdí si, co tuší<br /><br />
 
-Sedl si ke mě anděl
-prý že ta pravda není jediná
-já ho poslal do háje
-a nazvracel mu do klína
+Sedl si ke mě anděl<br />
+prý že ta pravda není jediná<br />
+já ho poslal do háje<br />
+a nazvracel mu do klína<br /><br />
 
-Já jsem našel pravdůů!
-A je to pravda jediná!
-Pro mě je teď vším
-byla na dně láhve od vína
+Já jsem našel pravdůů!<br />
+A je to pravda jediná!<br />
+Pro mě je teď vším<br />
+byla na dně láhve od vína<br /><br />
 
-Nevím, zda dokáži ji popsat
-než ráno střízlivost zakryje ji falší.
-Ale to vlastně nevadí,
-v jiné lahvi pravda bude další!
+Nevím, zda dokáži ji popsat<br />
+než ráno střízlivost zakryje ji falší.<br />
+Ale to vlastně nevadí,<br />
+v jiné lahvi pravda bude další!<br /><br />
 
-K tomu celému chci říci jenom tolik:
-Já jsem hledač pravdy a ne alkoholik!!!
+K tomu celému chci říci jenom tolik:<br />
+Já jsem hledač pravdy a ne alkoholik!!!<br />

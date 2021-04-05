@@ -17,7 +17,7 @@ export default {
     };
   },
   async asyncData({ $content, params }) {
-    return await getAsyncOneFileData({ $content, params, dir: "povidky" });
+    return await getAsyncOneFileData({ $content, params, dir: "blog" });
   },
 };
 </script>

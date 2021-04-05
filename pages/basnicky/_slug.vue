@@ -1,6 +1,8 @@
 <template>
   <article>
-    <nuxt-content :document="article" />
+    <div class="text-center">
+      <nuxt-content :document="article" />
+    </div>
     <hr class="hr-text" />
     <h5>{{ article.date }}</h5>
     <h6>{{ article.author }}</h6>
@@ -17,7 +19,7 @@ export default {
     };
   },
   async asyncData({ $content, params }) {
-    return await getAsyncOneFileData({ $content, params, dir: "povidky" });
+    return await getAsyncOneFileData({ $content, params, dir: "basnicky" });
   },
 };
 </script>

@@ -1,8 +1,8 @@
 import { dateFormat } from "~/helpers/dateFormat.js";
 import { CREATIONS_LIMIT } from "~/helpers/config.js";
 
-export async function getAsyncOneFileData({ $content, params }) {
-  const article = await $content("povidky", params.slug).fetch();
+export async function getAsyncOneFileData({ $content, params, dir }) {
+  const article = await $content(dir, params.slug).fetch();
   article.date = dateFormat(article.date);
   return {
     article,

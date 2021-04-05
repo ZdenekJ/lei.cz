@@ -56,7 +56,7 @@ export default {
     isCreationsRoute() {
       // console.log(CREATIONS_PATHS);
       // console.log("Route name:  " + this.$route.name);
-      if (CREATIONS_PATHS.includes(this.$route.name)) {
+      if (CREATIONS_PATHS.includes(this.$route.name.replace("-slug", ""))) {
         return true;
       } else {
         return false;

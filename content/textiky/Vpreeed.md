@@ -1,9 +1,10 @@
 ---
 title: Vpřéééd
-date: 25. 8. 2004
+date: 2004-08-25
+author: Lei
 ---
 
-#Vpřéééd
+# Vpřéééd
 
 „Vpřéééd!“ zakřičí muž, stojící jako první.
 

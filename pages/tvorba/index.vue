@@ -30,6 +30,9 @@
 
 <script>
 import CreationListLine from "~/components/CreationListLine.vue";
+import { getAsyncDirectoryData } from "~/helpers/getContent.js";
+import { dateFormat } from "~/helpers/dateFormat.js";
+
 export default {
   head() {
     return {
@@ -39,25 +42,49 @@ export default {
   },
   components: { CreationListLine },
   async asyncData({ $content }) {
-    const povidky = await $content("povidky")
-      .sortBy("date", "desc")
-      .limit(5)
-      .fetch();
-    const basnicky = await $content("basnicky")
-      .sortBy("date", "desc")
-      .limit(5)
-      .fetch();
-    const textiky = await $content("textiky")
-      .sortBy("date", "desc")
-      .limit(5)
-      .fetch();
-
+    const povidky = await getAsyncDirectoryData({
+      $content,
+      dir: "povidky",
+    });
+    const basnicky = await getAsyncDirectoryData({ $content, dir: "basnicky" });
+    const textiky = await getAsyncDirectoryData({ $content, dir: "textiky" });
     console.log(povidky, basnicky, textiky);
+    // return povidky;
     return {
       povidky,
       basnicky,
       textiky,
     };
   },
+  // async asyncData({ $content }) {
+  //   const povidky = await $content("povidky")
+  //     .sortBy("date", "desc")
+  //     .limit(5)
+  //     .fetch();
+  //   const basnicky = await $content("basnicky")
+  //     .sortBy("date", "desc")
+  //     .limit(5)
+  //     .fetch();
+  //   const textiky = await $content("textiky")
+  //     .sortBy("date", "desc")
+  //     .limit(5)
+  //     .fetch();
+
+  //   povidky.forEach(
+  //     (el, index, arr) => (arr[index].date = dateFormat(el.date))
+  //   );
+  //   basnicky.forEach(
+  //     (el, index, arr) => (arr[index].date = dateFormat(el.date))
+  //   );
+  //   textiky.forEach(
+  //     (el, index, arr) => (arr[index].date = dateFormat(el.date))
+  //   );
+  //   console.log(povidky, basnicky, textiky);
+  //   return {
+  //     povidky,
+  //     basnicky,
+  //     textiky,
+  //   };
+  // },
 };
 </script>

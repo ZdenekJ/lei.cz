@@ -48,7 +48,7 @@
 </template>
 
 <script>
-import { CREATIONS_PATHS } from "~/config.js";
+import { CREATIONS_PATHS } from "~/helpers/config.js";
 export default {
   name: "Navigation",
 

@@ -18,7 +18,7 @@ export default {
     const povidky = await $content("povidky")
       .sortBy("title")
       .fetch();
-    console.log(povidky);
+    // console.log(povidky);
     return {
       povidky,
     };

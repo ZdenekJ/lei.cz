@@ -1,7 +1,8 @@
 ---
 title: Holka z baru
 description: Po "Pánu snů" se ozvalo několik čtenářek (i čtenářů), že bych měl oddělit erotiku a horor. Tak tady je jedna čistá erotika (dobře, je to špinavý porno, ale to nezní tak hezky ;)) Testováno na lidech na mém oblíbeném diskuzáku. Čtenářkám se líbila, čtenářů jsem se neptal ;)
-date: 18. 10. 2012
+date: 2012-10-18
+author: Lei
 ---
 
 # Holka z baru
@@ -116,9 +117,3 @@ Nevěděl jsem co říct, dostal jsem ze sebe jen tu nejhloupější otázku pro
 Hlavou se mi řítil rychlík emocí, pocitů a myšlenek. Čekal jsem všechno, jen ne tohle.
 
 „Chtěla jsi asi říct ‚příště mi dovolte, pane‘ ne?“ zeptal jsem se jí a usmál se. Byl to napůl pobavený a napůl cynický úsměv. Horlivě přikývla. Věděl jsem, že nesouhlasí jen kvůli mému úsměvu, ale hlavně kvůli mému pohledu. Aniž bych se díval do zrcadla, věděl jsem, co vidí. V očích se mi po dlouhé době zase rozhořel oheň. Dva temné plamínky zvrácenosti, dva odrazy temné duše. Jsem zpět.
-
----
-
-18.10.2012
-
-Lei

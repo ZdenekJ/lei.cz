@@ -1,9 +1,10 @@
 ---
 title: Pravda
-date: 17. 04. 2005
+date: 2005-04-17
+author: Lei
 ---
 
-#Pravda
+# Pravda
 
 Pozor pozor pozor
 je tu velká novina:

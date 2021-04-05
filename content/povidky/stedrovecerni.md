@@ -3,9 +3,8 @@ title: Štědrovečerní
 description: Vánoce. Svátky míru, klidu a porozumnění... Jenže co když se střetnou dva protichůdné symboly Vánoc?
 date: 2004-12-24
 author: Lei
+tags: ["krev", "násilí"]
 ---
-
-# Štědrovečerní
 
 Tak je tu máme zas. Nejkrásnější svátky v roce. Svátky klidu, míru a porozumění. Vánoce. V posledních letech se sice předvánoční čas stává stále více a více uspěchaným a stresovým, ale dnes, na Štědrý den, se to zlomí. Spěch a shon ustane a v domácnostech a hlavně v lidech se konečně rozhostí klid a mír. Lidé si jsou najednou blíž nebo se o to alespoň snaží. A i to se počítá.
 

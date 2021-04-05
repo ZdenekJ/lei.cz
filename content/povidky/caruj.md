@@ -3,9 +3,8 @@ title: Čaruj!
 description: Je Dan jedinečný? Nebo tenhle dar máme všichni a jen jsme ho nedokázali probudit?
 date: 2016-03-25
 author: Lei
+tags: ["fantasy"]
 ---
-
-# Čaruj!
 
 Pokud utíkáte a chcete se skrýt v davu, základní pravidlo zní, že nesmíte běžet. Ale jít jen trochu rychleji než ostatní. Jinak totiž pozornost spíš přitahujete a je lehké si vás všimnout. Věřil jsem, že mě nikdo nesleduje, ale přesto jsem se snažil s okolím splynout. Ovšem moc to nešlo, kulhal jsem na levou nohu naraženou při pádu a pozornost přitahovala i krev na košili. A to ani nebyla moje. Myslím ta krev, ne košile. Oheň kdesi za mnou pronikl k plynovému potrubí a ozval se výbuch. Lidé ztuhli a pak se dali na bezhlavý úprk. Teď už jsem utíkat mohl. Vyběhl jsem před obchodní centrum a zatímco dav mířil směrem od výbuchů, já se vydal k nim. Někde tam stálo moje auto. Jenže hned za rohem jsem viděl, jak můj vůz hoří. Vedle mě se zapištěním pneumatik zastavil modrý kabriolet.
 

@@ -3,9 +3,8 @@ title: Setkání
 description: Nedávno jsem jel do Brna a asi ani nebudete věřit, co se mi tam stalo... Raději upozorňuji čtenáře, že je to z valné části smyšlené, ROZHODNĚ se neudálo nic z toho co popisuju od chvíle, kdy dojde k setkání. Veškerá inspirace pramení jen z povídání si ;o)
 date: 2004-08-13
 author: Lei
+tags: ["horror", "sex"]
 ---
-
-# Setkání
 
 Vlak ještě ani nezastavil, ale já už jsem otvíral dveře a hrnul se ven. Obvykle počkám, až všichni vystoupí a jdu klidně poslední. Ale dnes mě radostné očekávaní táhlo vpřed. Nenamáhal jsem se ani použít schůdky, skočil jsem z vlaku rovnou na peron a nadšeně kráčel pryč. Trochu zasněně jsem se rozhlédl a pomalu se nadýchl. Brno. Tak jsem tady zase. Ztrávil jsem tu tři roky studia, ale stejně si mě tohle město něčím získalo už dávno předtím. Asi proto, že je tu cítit život jiným způsobem než u nás doma. Rád se sem vracím. Obvykle si něco koupím a pak tvrdím, že jsem do Brna jel něco shánět, ale vím, že to není tak úplně pravda. Navíc dnes nejdu kupovat opravdu vůbec nic. S úsměvem na tváři jsem seběhl schody, propletl se davem lidí v podchodu a o kus dál se zase vrátil na úroveň ulice.
 

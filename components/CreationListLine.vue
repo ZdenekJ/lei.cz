@@ -19,6 +19,17 @@
         <p>
           <span class="fa fa-calendar" title="Napsáno dne"></span>
           {{ data.date }}
+          <span v-show="data.tags">
+            <span class="fa fa-tags" title="Seznam tagů"></span>
+            <span
+              class="tags"
+              v-for="(item, index) in data.tags"
+              v-bind:key="index"
+              ><a nohref
+                ><span class="label label-default">{{ item }}</span></a
+              ></span
+            >
+          </span>
         </p>
       </div>
     </div>
@@ -31,3 +42,9 @@ export default {
   props: ["data"],
 };
 </script>
+
+<style lang="scss">
+.tags + .tags {
+  margin-left: 0.4em;
+}
+</style>

@@ -1,5 +1,20 @@
 <template>
   <article>
+    <h1 class="text-center">{{ article.title }}</h1>
+    <div class="row" v-show="article.tags">
+      <div class="col-xs-12">
+        <span class="fa fa-tags" title="Seznam tagů"></span>
+        <span
+          class="tags"
+          v-for="(item, index) in article.tags"
+          v-bind:key="index"
+          ><a nohref
+            ><span class="label label-default">{{ item }}</span></a
+          ></span
+        >
+      </div>
+    </div>
+    <br v-show="article.tags" />
     <nuxt-content :document="article" />
     <hr class="hr-text" />
     <h5>{{ article.date }}</h5>
@@ -21,11 +36,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
-.nuxt-content {
-  h1 {
-    text-align: center;
-  }
-}
-</style>

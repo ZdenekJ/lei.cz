@@ -5,8 +5,6 @@ date: 2016-05-30
 author: Lei
 ---
 
-# Bezdomovec
-
 Nejedl jsem už několik dní. Schovaný za keřem jsem toho chlápka pozoroval s obezřetností a touhou zároveň. S obezřetností proto, že nemám rád lidi. Ne že bych je snad nenáviděl, ale nevyhledávám jejich společnost. Raději jsem sám. Bývaly doby, kdy jsem měl kolem sebe svoje blízké. Lidi, které jsem měl rád. Ale to už je pryč. Myslím, že nenávratně. A moje touha se netýkala ani tak toho chlapíka, jako krabice s pizzou, kterou nesl. Voněla naprosto neskutečně lákavě a mě hlady kručelo v břiše.
 
 Zbystřil jsem, když položil pizzu na lavičku a odkráčel k několik metrů vzdálenému stánku. Z chladicího boxu si vybíral pití. Rychle jsem vyrazil. Chtěl jsem si vzít celou krabici a zmizet, ale ta omamná vůně mě přemohla a přikovala na místě. Začal jsem ještě horkou pizzu hltat přímo na lavičce.

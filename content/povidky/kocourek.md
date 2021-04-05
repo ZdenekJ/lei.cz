@@ -3,9 +3,8 @@ title: Kocourek
 description: Detektiv a jeho robopes hledají zatoulanou kočku. Pardon, kocourka.
 date: 2004-08-09
 author: Lei
+tags: ["sci-fi"]
 ---
-
-# Kocourek
 
 Naštvaně jsem nakopl zmačkanou plechovku od piva ležící na ulici. Odlétla ke stěně a hlasitě zarachotila.
 

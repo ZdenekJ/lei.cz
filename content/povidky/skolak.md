@@ -5,8 +5,6 @@ date: 2004-09-02
 author: Lei
 ---
 
-# Školák
-
 Malý chlapec vesele kráčel po chodníku. Bylo 1. září a on šel poprvé do školy. Velice se těšil. Byl zvědavý na nové kamarády a chtěl se naučit spoustu zajímavých věcí. Číst, psát a počítat. A ještě spoustu dalšího. Ani nevěděl, co všechno se naučí, ale v uplynulých měsících mu maminka o škole hodně vyprávěla. Proto se do ní tak těšil.
 
 Zahnul za roh ulice a uviděl ji. Trošku zpomalil, ta ohromná budova ho poněkud zaskočila. Již zde několikrát byl, ale pokaždé s tatínkem a maminkou. Teď šel sám a trošku se bál. Ta spousta oken! A obrovský vchod, do kterého proudily davy dětí. Na ty se ale těšil. Znovu přidal do kroku.

@@ -3,9 +3,8 @@ title: Holka z baru
 description: Po "Pánu snů" se ozvalo několik čtenářek (i čtenářů), že bych měl oddělit erotiku a horor. Tak tady je jedna čistá erotika (dobře, je to špinavý porno, ale to nezní tak hezky ;)) Testováno na lidech na mém oblíbeném diskuzáku. Čtenářkám se líbila, čtenářů jsem se neptal ;)
 date: 2012-10-18
 author: Lei
+tags: ["bdsm", "sex"]
 ---
-
-# Holka z baru
 
 Pomalu jsem kráčel do kopce a znovu vrhl rychlý pohled na slečnu, kterou jsem držel kolem pasu a teď ji nahoru tak trochu táhnul. Usmívala se a v mojí bundě jí snad bylo i teplo. Vypadala spokojeně. Zato mně jen v triku byla docela zima, ale o to rychleji mizel alkoholový závoj. Znovu jsem se snažil vzpomenout, jak se to vlastně seběhlo.
 

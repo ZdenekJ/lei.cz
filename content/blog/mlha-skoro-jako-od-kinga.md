@@ -5,8 +5,6 @@ date: 2016-03-14
 author: Lei
 ---
 
-# Mlha skoro jako od Kinga
-
 Viděli jste [film _Mist / Mlha_](www.csfd.cz/film/227789-mlha/), natočený podle [povídky Stephena Kinga](http://www.databazeknih.cz/knihy/mlha-1133)? Zvláštní, skoro neprůhledná, mlha tam zahalí městečko a obyvatelé mají co dělat, aby přežili. V mlze totiž číhá… Ale to není podstatné, důležité je, že přesně na tenhle film jsem si vzpomněl při jedné cestě domů. Bylo to někdo v druhé půlce listopadu 2015. Jel jsem z práce, a když jsem se hned za Studnicemi přehoupl přes kopec a sjížděl dolů, překvapeně jsem pozoroval bílou plochu před sebou.
 
 _To sněžilo?_ napadlo mě jako první. Pastvina na levé straně silnice o pár set metrů dál byla celá bílá. Když jsem přijel blíž, uvědomil jsem si, že to cosi bílé není pevná hmota. Ale zdráhal jsem se uvěřit tomu, že je to mlha, kouř nebo prostě něco podobného. Mělo to totiž jasně ohraničené tvary. Nikde nebyly žádné „cáry mlhy“, jak to my spisovatelé s oblibou používáme. Prostě byl kus čisté louky a najednou hustá mlha. A byla ohraničená nejen do boku, ale i směrem nahoru. Mlha byla vysoká do dvou metrů. Nechápal jsem to.

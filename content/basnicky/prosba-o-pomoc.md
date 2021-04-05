@@ -4,8 +4,6 @@ date: 2005-01-25
 author: Lei
 ---
 
-# Prosba o pomoc
-
 Na zemi klečela<br />
 hleděla do nebe<br />
 prosila o pomoc<br />

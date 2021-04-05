@@ -5,8 +5,6 @@ date: 2004-08-25
 author: Lei
 ---
 
-# Vpřéééd
-
 „Vpřéééd!“ zakřičí muž, stojící jako první.
 
 „Vpřéééd!“ opakují všichni ostatní v davu za ním. Tedy až na mě. Já mlčím. Já totiž mlčím skoro vždycky, za jakékoliv situace. Výjimečně se ale rozpovídám, ale pak to prý stojí za to. Ale tady? Kdepak, raději budu mlčet. Navíc, jak tak koukám po tvářích kolem, nikdo stejně nemá zájem poslouchat.

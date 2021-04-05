@@ -3,9 +3,8 @@ title: Noční běh
 description: Tichá měsíční noc a osamocená dívka v parku. Co se asi tak může stát?
 date: 2004-09-07
 author: Lei
+tags: ["fantasy"]
 ---
-
-# Noční běh
 
 Ráda se toulala po městě v noci. Když slunce zmizí za obzorem, svět zahalí tma a rozsvítí se pouliční lampy a výlohy obchodů, svět vypadá tak nějak... jinak. Pro někoho děsivě, pro někoho romanticky, pro někoho přitažlivě. Jí noční město připadalo jako živý tvor. Jako podivná obrovská bytost, která do noci září myriádou světel, v žilách jí pulsuje divoká zpěněná krev a nechává lidi myslet si, že jen díky nim takzvaně „město žije nočním životem.“ Nechává je si to myslet, ale ví, že tak žijí jen díky němu, že ono to tak chce.
 

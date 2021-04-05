@@ -4,8 +4,6 @@ date: 2016-11-20
 author: Lei
 ---
 
-# Mosty
-
 Zbyl tu jenom prach<br />
 prach a prázdná slova<br />
 most tu kdysi stál<br />

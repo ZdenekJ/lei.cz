@@ -3,9 +3,8 @@ title: Zmrtvýchvstání
 description: Někdy se člověk opije tzv. "do mrtva." Něco takového se zřejmě podařilo i Jirkovi. Navíc se vzbudil na hřbitově.
 date: 2018-04-03
 author: Lei
+tags: ["horror"]
 ---
-
-# Zmrtvýchvstání
 
 „Ježíši Kriste,“ proletělo mi jako první hlavou, když jsem se probral. Nechtělo se mi vůbec nic, cítil jsem se naprosto vyčerpaně a bolelo mě celé tělo. Hlava mi třeštila, jako by do ní někdo kopal. Zevnitř. Neschopen se pohnout jsem alespoň pomalu otevřel oči. A s obtížemi zaostřil na tvář před sebou.
 

@@ -4,8 +4,6 @@ date: 2005-05-16
 author: Lei
 ---
 
-# Melancholická
-
 V objetí děsu<br />
 celý se třesu<br />
 šílenství dýchá mi na paty<br />

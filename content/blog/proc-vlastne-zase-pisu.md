@@ -3,9 +3,8 @@ title: Proč vlastně (zase) píšu
 description: Zamyšlení, proč jsem kdysi začal psát a teď se k tomu zase vrátil.
 date: 2015-12-06
 author: Lei
+tags: ["o mně", "psaní"]
 ---
-
-# Proč vlastně zase píšu
 
 ## Jak to začalo
 

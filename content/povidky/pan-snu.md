@@ -3,9 +3,8 @@ title: Pán snů
 description: Erotická (porno, chcete-li) BDSM povídka. Ale s příběhem ;) Abych zase nekomu nezpůsobil noční můry a děsivé vize, tak předem upozorňuji, že by se asi patřila do žánru horor. Prostě je to od určité chvíle značně brutální a krvavé... Věkové doporučení 18+
 date: 2005-02-22
 author: Lei
+tags: ["bdsm", "horror", "krev", "násilí", "sex"]
 ---
-
-# Pán snů
 
 <p class="text-warning">VAROVÁNÍ - I přes varování jsem už touhle povídkou docela znechutil pár čtenářek, takže pokud vás zajímá jen ta erotika, či si vám nelíbila povídka Milenka, neměli byste číst víc, než první dvě části ;) Jinak za vaše pocity neručím.</p>
 

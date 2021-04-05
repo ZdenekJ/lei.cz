@@ -1,5 +1,6 @@
 <template>
   <article>
+    <h1 class="text-center">{{ article.title }}</h1>
     <nuxt-content :document="article" />
     <hr class="hr-text" />
     <h5>{{ article.date }}</h5>
@@ -21,11 +22,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
-.nuxt-content {
-  h1 {
-    text-align: center;
-  }
-}
-</style>

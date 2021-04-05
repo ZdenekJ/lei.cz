@@ -5,8 +5,6 @@ date: 2016-01-17
 author: Lei
 ---
 
-# Sebevrahova zpověď
-
 Někdy se zkrátka posere úplně všechno. Rodina, vztahy, přátelé, majetek, práce, postavení. Prostě na cokoliv si vzpomenete, šlo u mě do hajzlu. Osud mě sežvejkal a vyplivl jako trosku. Už nemůžu dál, rozhodl jsem se na všechno se vykašlat. Hodlám to ukončit. Jednou pro vždy.
 
 Trochu mě děsí, jak ledově jsem se pro to rozhodnul. A chladně naplánoval. V kapse mám dopis na rozloučenou, aby nikdo nemusel pátrat, co že se stalo. Způsobů, jak se zabít, jsem vymyslel spoustu, ale nejlíp mi vyšel vlak. Ne před něj skočit nějak náhodně, ale prostě položit krk na kolej. Smrt by měla být prakticky okamžitá.

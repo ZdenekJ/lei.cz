@@ -4,8 +4,6 @@ date: 2005-01-26
 author: Lei
 ---
 
-# Ztracená
-
 Vodpád havraních vlasů<br />
 padá mi do dlaní<br />
 modlím se za tvoji spásu<br />

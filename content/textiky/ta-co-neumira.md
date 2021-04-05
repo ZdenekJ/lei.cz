@@ -5,8 +5,6 @@ date: 2018-04-29
 author: Lei
 ---
 
-# Ta, co neumírá
-
 Celou oblohu kryjí šedivá mračna. Vytrvalý hustý déšť padá dolů a všechno halí do studeného vlhka. A do šedi. Celá krajina je jak bez barev, střídá se jen světlejší odstín šedé s tmavším. Jako by déšť smyl všechnu krásu a radost. A nezůstalo nic. Venku je jen smutné šedivo a bezútěšno.
 
 A vevnitř vlastně taky. Ne v domě. Ve mně. Je to stejné jako venku. Šedivo a smutno. Bez krásy a radosti. Prázdno. Bez ničeho. Konec.

@@ -3,9 +3,8 @@ title: Milenka
 description: Krátká a jednoduchá povídka, věkové doporučení 18+. Ale nenechte se zmást názvem ;)
 date: 2004-07-20
 author: Lei
+tags: ["horror", "krev", "násilí"]
 ---
-
-# Milenka
 
 Vyhoupl jsem se do barové stoličky a ještě jednou zkontroloval svůj zevnějšek v obrovském zrcadle, pokrývajícím celou protější stěnu. Ze zvyku jsem si prsty lehce přihladil knírek a bradku. Mému zevnějšku nebylo co vytknout. Vlasy pečlivě učesané a lehce nagelované, právě tak jak je to nyní v módě. Dokonale padnoucí, velice kvalitní černá košile. A zcela bezchybné kalhoty, vyrobené z velmi pevné a přesto prodyšné, naprosto nemačkavé látky. Samozřejmě také černé, ale doplněné o jednoduché zdobení stříbrnou nití. Košile i kalhoty jsou samozřejmě značkové, utratil jsem za ně celé dva platy. A většinu třetího za elegantní celokožené boty. Zářivě jsem se na sebe do zrcadla usmál. Prostě bez chybičky.
 

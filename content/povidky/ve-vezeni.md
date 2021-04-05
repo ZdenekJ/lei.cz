@@ -3,9 +3,8 @@ title: Ve vězení
 description: Moje prvotina, nejsem příliš spokojený se začátkem, ale od okamžiku, kdy se hlavní hrdina ocitne ve vězení to naprosto přesně vyjdřuje to, co jsem chtěl.
 date: 2003-10-01
 author: Lei
+tags: ["fantasy", "násilí"]
 ---
-
-# Ve vězení
 
 Slunce pomalu vycházelo a obloha pozvolna měnila barvu ze světle šedé, přes růžovou a žlutou až po světle modrou. Ptáci nový den vítali s nadšeným trylkováním už více než hodinu. Začínal nový, pozdně jarní den. Hodně lidí pozorovalo východ slunce a usmívalo se, protože na ně dolehla krása okamžiku. Svěží vítr navíc na čas odvál zatuchlý pach města. Tak krásný den zde již dlouho nebyl.
 

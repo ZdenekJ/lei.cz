@@ -4,8 +4,6 @@ date: 2002-06-29
 author: Lei
 ---
 
-# Veverka v létě
-
 Veverka ve vedru na vetvi podrimuje<br />
 kdyz listim pod sebou pohyb zpozoruje<br />
 je to jen cyklista, co slape na kopec<br />

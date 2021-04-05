@@ -3,9 +3,8 @@ title: Pád do propasti
 description: Někdy se dá spadnout opravdu hluboko. A ani ten pád nemusí být nutně fyzický.
 date: 2004-10-26
 author: Lei
+tags: ["fantasy", "násilí"]
 ---
-
-# Pád do propasti
 
 Teď! Ten signál bych poznal kdykoli, jen na něj jsem celou dobu čekal. Ani nevím jak dlouho, jen vteřinu nebo již celá staletí? Netuším, ale v kterýkoli okamžik jsem byl připravený ihned vyrazit. A teď ta chvíle přišla. Rozeběhl jsem se a skočil. Ruce těsně u těla, střemhlavý pád. Letěl jsem, ale cítil jsem, že se nepohybuji dostatečně rychle. Mohl bych přijít pozdě? To snad ne. Ale to volání bylo tak naléhavé... Musím letět rychleji!
 

@@ -1,5 +1,6 @@
 <template>
   <article>
+    <h1 class="text-center">{{ article.title }}</h1>
     <div class="text-center">
       <nuxt-content :document="article" />
     </div>

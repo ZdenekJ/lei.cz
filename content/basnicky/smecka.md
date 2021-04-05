@@ -4,8 +4,6 @@ date: 2002-10-15
 author: Lei
 ---
 
-# Smečka
-
 Chladný svit měsíce volá mě do noci<br />
 na zemi udeřil dnes první mráz<br />
 dnešního večera již není mi pomoci<br />

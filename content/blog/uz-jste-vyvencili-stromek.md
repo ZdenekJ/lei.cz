@@ -5,8 +5,6 @@ date: 2016-01-09
 author: Lei
 ---
 
-# Už jste vyvenčili stromek?
-
 Cože je to za otázku? No, jsem jen zvědavý, kdo má na doma živý stromek a venčí ho. To není snad tak zvláštní, ne?
 
 Vánoce jsou za námi, cukroví snězené (případně nacpané do mrazáku _třeba na Velikonoce_). Silvestrovské veselí už taky pominulo a opice slezla i z největšího pijana. Máme tu čas tříkrálový.

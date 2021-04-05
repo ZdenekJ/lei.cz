@@ -4,8 +4,6 @@ date: 2005-01-25
 author: Lei
 ---
 
-# Snění
-
 Je tu čas nejvyšší nouze<br />
 ja podlehl jsem svojí touze<br />
 chtěl bych ji hladit, líbat dlouze<br />

@@ -3,9 +3,8 @@ title: Navzdory Jediům
 description: To jsem takhle jednou koukal na Star Wars, přemýšlel o pár věcech a druhý den jsem zplodil tuhle povídku.
 date: 2004-07-25
 author: Lei
+tags: ["sci-fi"]
 ---
-
-# Navzdory Jediům
 
 Zabušil jsem na ocelové dveře.
 

@@ -4,8 +4,6 @@ date: 2005-04-17
 author: Lei
 ---
 
-# Pravda
-
 Pozor pozor pozor<br />
 je tu velká novina:<br />
 Já jsem našel pravdu!<br />

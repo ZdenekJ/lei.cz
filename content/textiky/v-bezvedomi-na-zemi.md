@@ -5,8 +5,6 @@ date: 2004-09-17
 author: Lei
 ---
 
-# V bezvědomí na zemi
-
 Ležím na zemi.
 
 „Co tu dělám?“ ptám se sám sebe.

@@ -3,9 +3,8 @@ title: Fotograf
 description: Tisíckrát ohrané téma... Ale mě to nevadí, tohle se mi asi vždycky bude líbit. Věkové doporučení 18+
 date: 2004-08-27
 author: Lei
+tags: ["fantasy", "sex"]
 ---
-
-# Fotograf
 
 Znovu jsem přejel dalekohledem po protějším břehu jezera. Pořád nic. Čekám zde již od oběda, na stativu fotoaparát s masivním teleobjektivem. Nedávno jsem tu byl na procházce a na protějším břehu jsem viděl nádherného jelena s laní. V myslivecké latině se nevyznám, netuším moc co znamenají názvy jako „dvanácterák“ nebo „šestnácterák“. Vím jen, že to souvisí s parožím. A tak rozložité paroží, jaké jsem viděl u toho jelena, jsem snad nespatřil ani ve filmu. Bohužel jsem měl sebou jen dalekohled a mohl se kochat jen několik minut, než ladně zmizel v lese.
 

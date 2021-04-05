@@ -3,10 +3,18 @@
     <h1 class="text-center">
       Povídky
     </h1>
+    <CreationListLine
+      v-for="(item, index) in data"
+      v-bind:key="index"
+      :data="item"
+    ></CreationListLine>
   </article>
 </template>
 
 <script>
+import CreationListLine from "~/components/CreationListLine.vue";
+import { getAsyncDirectoryData } from "~/helpers/getContent.js";
+
 export default {
   head() {
     return {
@@ -14,13 +22,15 @@ export default {
       titleTemplate: "Povídky | Lei.cz",
     };
   },
+  components: { CreationListLine },
   async asyncData({ $content }) {
-    const povidky = await $content("povidky")
-      .sortBy("title")
-      .fetch();
-    // console.log(povidky);
+    const data = await getAsyncDirectoryData({
+      $content,
+      dir: "povidky",
+      limit: 0,
+    });
     return {
-      povidky,
+      data,
     };
   },
 };

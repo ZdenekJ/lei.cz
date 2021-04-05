@@ -1,5 +1,4 @@
 import { dateFormat } from "~/helpers/dateFormat.js";
-import { CREATIONS_LIMIT } from "~/helpers/config.js";
 
 export async function getAsyncOneFileData({ $content, params, dir }) {
   const article = await $content(dir, params.slug).fetch();
@@ -9,11 +8,7 @@ export async function getAsyncOneFileData({ $content, params, dir }) {
   };
 }
 
-export async function getAsyncDirectoryData({
-  $content,
-  dir,
-  limit = CREATIONS_LIMIT,
-}) {
+export async function getAsyncDirectoryData({ $content, dir, limit = 0 }) {
   const data = await $content(dir)
     .sortBy("date", "desc")
     .limit(limit)

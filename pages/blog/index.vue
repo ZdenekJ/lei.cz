@@ -4,9 +4,9 @@
       Blog
     </h1>
     <CreationListLine
-      v-for="(data, index) in blog"
+      v-for="(item, index) in data"
       v-bind:key="index"
-      :data="data"
+      :data="item"
     ></CreationListLine>
   </article>
 </template>
@@ -24,13 +24,13 @@ export default {
   },
   components: { CreationListLine },
   async asyncData({ $content }) {
-    const blog = await getAsyncDirectoryData({
+    const data = await getAsyncDirectoryData({
       $content,
       dir: "blog",
       limit: 0,
     });
     return {
-      blog,
+      data,
     };
   },
 };

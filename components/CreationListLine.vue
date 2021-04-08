@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-xs-12">
         <h3>
-          <a :href="data.path">{{ data.title }}</a>
+          <NuxtLink :to="this.data.path">{{ data.title }}</NuxtLink>
         </h3>
       </div>
     </div>

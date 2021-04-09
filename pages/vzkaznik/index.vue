@@ -3,7 +3,7 @@
     <h1 class="text-center">
       Vzkazník
     </h1>
-    <Comments></Comments>
+    <!-- <Comments></Comments> -->
   </article>
 </template>
 

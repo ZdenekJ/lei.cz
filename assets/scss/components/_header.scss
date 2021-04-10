@@ -1,0 +1,39 @@
+#site-header {
+  margin: 2em auto;
+}
+
+#site-logo {  
+  margin: 0em auto;
+  display: block;
+  max-width: 5em;
+  img {
+    max-height: 6em;
+  }
+}
+
+#site-logo-text {
+  font-family: Russo One;
+  color: #333;
+  margin: 0em auto;
+  font-size: 2em;
+  display: block;
+  transform: rotate(-5deg);  
+}
+
+
+@media (max-width: 767px) {
+  #site-header {
+    margin: .3em auto;
+  }  
+  
+  #site-logo {
+    max-width: 4em;
+  }
+
+  #site-logo-text {
+    margin: 1em auto;
+    font-size: 1.6em;
+    display: block;
+    transform: rotate(0deg);  
+  }
+}

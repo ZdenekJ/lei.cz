@@ -3,6 +3,8 @@ title: Sebevrahova zpověď
 description: Sebevrazi jsou takové zvláštní téma. Na jednu stranu mrazivě zajímavé na druhou trochu tabuizované. Zkusil jsem trochu jiný pohled na věc.
 date: 2016-01-17
 author: Lei
+tags: ["horror"]
+
 ---
 
 Někdy se zkrátka posere úplně všechno. Rodina, vztahy, přátelé, majetek, práce, postavení. Prostě na cokoliv si vzpomenete, šlo u mě do hajzlu. Osud mě sežvejkal a vyplivl jako trosku. Už nemůžu dál, rozhodl jsem se na všechno se vykašlat. Hodlám to ukončit. Jednou pro vždy.

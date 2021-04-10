@@ -1,0 +1,15 @@
+@media print{
+
+  @import 'base/base';
+
+  @import 'themes/print/header';
+  @import 'themes/print/nav';
+  @import 'themes/print/article';
+  @import 'themes/print/news';
+  @import 'themes/print/forms';
+  @import 'themes/print/buttons';
+  @import 'themes/print/footer';
+  @import 'themes/print/social';
+  @import 'themes/print/tags';
+
+}

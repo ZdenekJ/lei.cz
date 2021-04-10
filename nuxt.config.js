@@ -3,7 +3,8 @@ export default {
   buildModules: ["@nuxtjs/pwa"],
   css: [
     // CSS file in the project
-    "~/assets/css/main.css",
+    "~/assets/scss/main.scss",
+    "~/assets/scss/print.scss",
   ],
   head: {
     htmlAttrs: {

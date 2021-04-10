@@ -18,8 +18,5 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-footer {
-  margin-top: auto;
-  text-align: center;
-}
+
 </style>

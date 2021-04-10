@@ -1,0 +1,12 @@
+.news {
+  margin: 1em auto;
+}
+.news > h3 {
+  margin-top: .05em;
+}
+
+@media (max-width: 767px) {
+  .news > h3 {
+    text-align: left;
+  }
+}

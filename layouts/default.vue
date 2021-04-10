@@ -6,7 +6,9 @@
           <Header></Header>
           <Navigation></Navigation>
         </nav>
+        <div id="main">
         <nuxt />
+        </div>
         <Footer></Footer>
       </div>
     </div>

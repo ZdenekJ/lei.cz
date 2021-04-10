@@ -1,0 +1,19 @@
+@import "../base/_colors";
+@import "../helpers/_mixins";
+
+
+.form-control {
+  background: $main-bg;
+  border-color: $main-border;
+  
+  &:focus {
+    border-color: $main-border;
+    @include button-form-shadow();
+  }
+  
+}
+
+.gb-helper {
+  position: absolute;
+  left: -1000em;
+}

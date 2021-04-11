@@ -3,6 +3,7 @@
     <h1 class="text-center">
       Povídky
     </h1>
+    <TagCloud :data="data"></TagCloud>
     <CreationListLine
       v-for="(item, index) in data"
       v-bind:key="index"
@@ -13,6 +14,7 @@
 
 <script>
 import CreationListLine from "~/components/CreationListLine.vue";
+import TagCloud from "~/components/TagCloud.vue";
 import { getAsyncDirectoryData } from "~/helpers/getContent.js";
 
 export default {
@@ -22,7 +24,7 @@ export default {
       titleTemplate: "Povídky | Lei.cz",
     };
   },
-  components: { CreationListLine },
+  components: { CreationListLine, TagCloud },
   async asyncData({ $content }) {
     const data = await getAsyncDirectoryData({
       $content,

@@ -3,6 +3,7 @@
     <h1 class="text-center">
       Tvorba
     </h1>
+    <TagCloud :data="[...povidky, ...basnicky, ...textiky]"></TagCloud>
     <div v-show="povidky.length > 0"><h3>Povídky</h3></div>
     <CreationListLine
       v-for="(data, index) in limitedArticles(povidky)"
@@ -45,6 +46,7 @@
 
 <script>
 import CreationListLine from "~/components/CreationListLine.vue";
+import TagCloud from "~/components/TagCloud.vue";
 import { getAsyncDirectoryData } from "~/helpers/getContent.js";
 import { CREATIONS_LIMIT } from "~/helpers/config.js";
 
@@ -60,7 +62,7 @@ export default {
       titleTemplate: "Tvorba | Lei.cz",
     };
   },
-  components: { CreationListLine },
+  components: { CreationListLine, TagCloud },
   async asyncData({ $content }) {
     const povidky = await getAsyncDirectoryData({
       $content,

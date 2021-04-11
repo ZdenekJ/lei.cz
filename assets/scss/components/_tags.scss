@@ -14,10 +14,10 @@
   width: 180px;
   padding: 0.3em 1em;
   border-radius: 10px;
-  background: $main-bg;
+  background: #eeeadc;
   position: absolute;
-  top: -5%;
-  left: 99%;
+  left: 100%;
+  transform: translateY(-100%);
   a {
     text-decoration: none;
     span {
@@ -33,23 +33,23 @@
     }
   }
   .tag-small {
-    a span {
+    span {
       font-size: 70%;
     }
   }
   .tag-medium {
-    a span {
+    span {
       font-size: 95%;
     }
   }
   .tag-big {
-    a span {
+    span {
       font-size: 105%;
       color: #333;
     }
   }
   .tag-bigger {
-    a span {
+    span {
       font-size: 120%;
       font-weight: bold;
       color: #000;
@@ -62,8 +62,9 @@
     width: auto;
     padding: 0.3em 1em;
     border-radius: 10px;
-    background: $main-bg;
+    background: #eeeadc;
     position: static;
+    transform: none;
   }
 
 }

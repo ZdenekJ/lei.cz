@@ -2,18 +2,17 @@
 @import "_typography";
 @import "../helpers/_mixins";
 
-html, body {
+html, body{
   padding: 0;
   margin: 0;
   background: $main-bg;
 }
 
-
-h1 { 
+h1{
   color: #333;
-  margin: 1em;  
+  margin: 1em;
 }
 
-.container {
+.container{
   margin: 0 auto;
 }

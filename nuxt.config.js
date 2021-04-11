@@ -12,11 +12,11 @@ export default {
     },
     titleTemplate: "Lei.cz",
     meta: [
-      { charset: "utf-8" },
-      { name: "viewport", content: "width=device-width, initial-scale=1" },
+      {charset: "utf-8"},
+      {name: "viewport", content: "width=device-width, initial-scale=1"},
 
       // hid is used as unique identifier. Do not use `vmid` for it as it will not work
-      { hid: "description", name: "description", content: "Meta description" },
+      {hid: "description", name: "description", content: "Meta description"},
     ],
     link: [
       {
@@ -26,7 +26,7 @@ export default {
       {
         rel: "stylesheet",
         href:
-          "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
+            "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
       },
     ],
   },
@@ -39,6 +39,9 @@ export default {
       ],
     },
   },
+  generate: {
+    fallback: '404.html'
+  },
   components: true,
   modules: ["@nuxt/content"],
   hooks: {
@@ -46,8 +49,8 @@ export default {
     "content:file:beforeParse": (file) => {
       if (file.extension !== ".md") return;
       file.data = file.data.replace(
-        /^(„)+/gm,
-        '<span class="opening-quote">„</span>'
+          /^(„)+/gm,
+          '<span class="opening-quote">„</span>'
       );
     },
   },

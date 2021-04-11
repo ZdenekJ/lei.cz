@@ -25,9 +25,9 @@
               class="tags"
               v-for="(item, index) in data.tags"
               v-bind:key="index"
-              ><a nohref
-                ><span class="label label-default">{{ item }}</span></a
-              ></span
+              ><NuxtLink :to="'/tagy/' + item"
+            ><span class="label label-default">{{ item }}</span></NuxtLink>
+              </span
             >
           </span>
         </p>

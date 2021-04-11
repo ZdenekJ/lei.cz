@@ -1,7 +1,7 @@
 <template>
   <div class="tag_cloud" v-show="dataWithTags && dataWithTags.length > 0">
     <h4>Tagy</h4>
-    <span v-for="item in tagCloud" :class="item.cssClass"><span>{{ item.tag}} </span></span>
+    <span v-for="item in tagCloud" :class="item.cssClass"><NuxtLink :to="'/tagy/' + item.tag"><span>{{ item.tag}} </span></NuxtLink> </span>
   </div>
 </template>
 

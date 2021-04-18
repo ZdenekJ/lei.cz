@@ -29,15 +29,12 @@
       <hr class="hr-text"/>
       <h5>{{ article.date }}</h5>
       <h6>{{ article.author }}</h6>
-      <ShareSocialSites
-          :data="{ title:article.title, path: this.$route.path }"></ShareSocialSites>
     </footer>
   </div>
 </template>
 
 <script>
 import SocialHeader from "~/components/SocialHeader.vue";
-import ShareSocialSites from "@/components/ShareSocialSites";
 
 export default {
   name: "Creation",
@@ -57,7 +54,7 @@ export default {
       titleTemplate: `${this.article.title} | Lei.cz`,
     };
   },
-  components: {ShareSocialSites, SocialHeader},
+  components: { SocialHeader },
 };
 </script>
 

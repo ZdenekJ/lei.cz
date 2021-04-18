@@ -3,6 +3,10 @@ import { dateFormat } from "~/helpers/dateFormat.js";
 export async function getAsyncOneFileData({ $content, params, dir }) {
   const article = await $content(dir, params.slug).fetch();
   article.date = dateFormat(article.date);
+  if(!article.description)
+  {
+    article.description = "";
+  }
   return {
     article,
   };

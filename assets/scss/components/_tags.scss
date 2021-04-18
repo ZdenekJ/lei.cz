@@ -1,0 +1,70 @@
+@import "../base/_colors";
+@import "../helpers/_mixins";
+
+.tags {
+  a:hover, a:focus {
+    text-decoration: none;
+    span {
+      color: #cdc;
+    }
+  }
+}
+
+.tag_cloud {
+  width: 180px;
+  padding: 0.3em 1em;
+  border-radius: 10px;
+  background: #eeeadc;
+  position: absolute;
+  left: 100%;
+  transform: translateY(-100%);
+  a {
+    text-decoration: none;
+    span {
+      color: #666;
+      padding: 5px;
+      border-radius: 5px;
+    }
+    &:hover, &:focus {
+      span {
+        color: #333;
+        background: $main-bg;
+      }
+    }
+  }
+  .tag-small {
+    span {
+      font-size: 70%;
+    }
+  }
+  .tag-medium {
+    span {
+      font-size: 95%;
+    }
+  }
+  .tag-big {
+    span {
+      font-size: 105%;
+      color: #333;
+    }
+  }
+  .tag-bigger {
+    span {
+      font-size: 120%;
+      font-weight: bold;
+      color: #000;
+    }
+  }
+}
+
+@media (max-width: 1199px) {
+  .tag_cloud {
+    width: auto;
+    padding: 0.3em 1em;
+    border-radius: 10px;
+    background: #eeeadc;
+    position: static;
+    transform: none;
+  }
+
+}

@@ -11,6 +11,7 @@
 </template>
 
 <script>
+import { dateFormat } from "~/helpers/dateFormat.js";
 export default {
   head() {
     return {
@@ -18,19 +19,12 @@ export default {
     };
   },
   async asyncData({ $content }) {
-    function formatDate(dateString) {
-      const d = new Date(dateString);
-      const month = "" + (d.getMonth() + 1);
-      const day = "" + d.getDate();
-      const year = d.getFullYear();
-      return `${day}. ${month}. ${year}`;
-    }
     const news = await $content("news")
       .sortBy("id")
       .fetch();
     news.body
       .reverse()
-      .forEach((el, index, arr) => (arr[index].date = formatDate(el.date)));
+      .forEach((el, index, arr) => (arr[index].date = dateFormat(el.date)));
     return {
       news,
     };

@@ -10,6 +10,9 @@
     "generate": "nuxt generate",
     "start": "nuxt start"
   },
+  "browserslist": [
+    "since 2017-06"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZdenekJ/lei.cz.git"

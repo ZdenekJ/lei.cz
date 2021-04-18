@@ -1,0 +1,29 @@
+@import 'colors';
+@import 'typography';
+@import '../helpers/mixins';
+
+html, body{
+  margin: 0;
+  padding: 0;
+  background: $main-bg;
+}
+body{
+  overflow-y: scroll;
+}
+h1{
+  margin: 1em;
+  color: #333;
+}
+
+.container{
+  margin: 0 auto;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.3s;
+}
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}

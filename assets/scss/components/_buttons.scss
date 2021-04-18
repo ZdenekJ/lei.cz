@@ -1,0 +1,48 @@
+@import "../base/_colors";
+@import "../helpers/_mixins";
+
+.label {
+  padding: 0.3em 0.6em 0.2em;
+}
+
+.btn {
+  font-weight: bold;
+  border-color: $main-border;
+  
+  &:hover, &:focus {
+    @include button-form-shadow();
+  }
+  
+}
+
+.btn-default {
+  background: $main-bg ;
+ 
+  &:hover, &:focus {
+    background: $main-bg;
+    border-color: $main-border ;
+  }
+
+}
+
+.btn-primary {
+  background: $main-border ;
+  border-color: $main-border;
+  
+  &:hover, &:focus {
+    background: $main-border;
+    border-color: $main-border;
+  }
+  
+}
+
+.btn.no-btn {
+  cursor: default;
+  
+  &:hover {
+    box-shadow: none;
+    background: $main-bg ;
+    border-color: $main-border;
+  }
+  
+}

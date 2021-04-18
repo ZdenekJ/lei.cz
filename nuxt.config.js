@@ -10,7 +10,7 @@ export default {
     htmlAttrs: {
       lang: "cs-CZ",
     },
-    titleTemplate: "Lei.cz",
+    title: "Lei.cz",
     meta: [
       {charset: "utf-8"},
       {name: "viewport", content: "width=device-width, initial-scale=1"},

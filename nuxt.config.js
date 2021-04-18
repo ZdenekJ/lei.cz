@@ -62,6 +62,7 @@ export default {
       // Test on: https://developers.facebook.com/tools/debug/
       { hid: 'og:site_name', property: 'og:site_name', content: 'Lei.cz' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'fb:app_id', property: 'fb:app_id', content: '997767046955778' },
       {
         hid: 'og:url',
         property: 'og:url',
@@ -114,7 +115,7 @@ export default {
     "content:file:beforeParse": (file) => {
       if (file.extension !== ".md") return;
       // Změna uvozovek jen pro povidky a textiky
-      if (file.path.includes("povidky/") || file.path.includes("textiky/"))
+      if (file.path.includes("povidky") || file.path.includes("textiky"))
       {
         file.data = file.data.replace(
             /^(„)+/gm,

@@ -48,10 +48,14 @@ export default {
     // Transformace MD souboru před parsovanim
     "content:file:beforeParse": (file) => {
       if (file.extension !== ".md") return;
-      file.data = file.data.replace(
-          /^(„)+/gm,
-          '<span class="opening-quote">„</span>'
-      );
+      // Změna uvozovek jen pro povidky a textiky
+      if (file.path.includes("povidky/") || file.path.includes("textiky/"))
+      {
+        file.data = file.data.replace(
+            /^(„)+/gm,
+            '<span class="opening-quote">„</span>'
+        );
+      }
     },
   },
 };

@@ -4,7 +4,7 @@
     <router-link to="/" title="Lei.cz" id="site-logo"
       ><img
         class="logo"
-        src="~/assets/images/lilie.png"
+        src="/images/lilie.png"
         alt="Zakrvácená lilie"
       />
     </router-link>

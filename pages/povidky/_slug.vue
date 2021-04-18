@@ -1,5 +1,9 @@
 <template>
   <article>
+    <SocialHeader
+      :title="article.title"
+      :description="article.description"
+    />
     <h1 class="text-center">{{ article.title }}</h1>
     <div class="row" v-show="article.tags">
       <div class="col-xs-12">
@@ -28,6 +32,7 @@
 <script>
 import { getAsyncOneFileData } from "~/helpers/getContent.js";
 import ShareSocialSites from "@/components/ShareSocialSites";
+import SocialHeader from "@/components/SocialHeader";
 export default {
   head() {
     return {
@@ -35,7 +40,7 @@ export default {
       titleTemplate: `${this.article.title} | Lei.cz`,
     };
   },
-  components: { ShareSocialSites },
+  components: { ShareSocialSites, SocialHeader },
   async asyncData({ $content, params }) {
     return await getAsyncOneFileData({ $content, params, dir: "povidky" });
   },

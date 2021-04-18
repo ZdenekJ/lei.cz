@@ -28,6 +28,71 @@ export default {
         href:
             "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
       },
+
+      // Twitter
+      // Test on: https://cards-dev.twitter.com/validator
+      {
+        hid: 'twitter:card',
+        name: 'twitter:card',
+        content: 'summary_large_image'
+      },
+      {
+        hid: 'twitter:url',
+        name: 'twitter:url',
+        content: 'https://lei.cz'
+      },
+      {
+        hid: 'twitter:title',
+        name: 'twitter:title',
+        content: 'Lei.cz'
+      },
+      {
+        hid: 'twitter:description',
+        name: 'twitter:description',
+        content:
+          'Můj úžasný web ;)'
+      },
+      {
+        hid: 'twitter:image',
+        name: 'twitter:image',
+        content: '/images/lilie.png'
+      },
+
+      // Open Graph
+      // Test on: https://developers.facebook.com/tools/debug/
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Lei.cz' },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      {
+        hid: 'og:url',
+        property: 'og:url',
+        content: 'https://lei.cz'
+      },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'Lei.cz'
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content:
+          'Můj úžasný web ;)'
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: '/images/lilie.png'
+      },
+      {
+        hid: 'og:image:secure_url',
+        property: 'og:image:secure_url',
+        content: '/images/lilie.png'
+      },
+      {
+        hid: 'og:image:alt',
+        property: 'og:image:alt',
+        content: 'Lei.cz'
+      }
     ],
   },
   pwa: {

@@ -1,5 +1,9 @@
 <template>
   <article>
+    <SocialHeader
+      :title="article.title"
+      :description="article.description"
+    />
     <h1 class="text-center">{{ article.title }}</h1>
     <div class="text-center">
       <nuxt-content :document="article" />
@@ -16,6 +20,7 @@
 <script>
 import { getAsyncOneFileData } from "~/helpers/getContent.js";
 import ShareSocialSites from "~/components/ShareSocialSites.vue";
+import SocialHeader from "~/components/SocialHeader.vue";
 
 export default {
   head() {
@@ -24,7 +29,7 @@ export default {
       titleTemplate: `${this.article.title} | Lei.cz`,
     };
   },
-  components: { ShareSocialSites },
+  components: { ShareSocialSites, SocialHeader },
   async asyncData({ $content, params }) {
     return await getAsyncOneFileData({ $content, params, dir: "basnicky" });
   },

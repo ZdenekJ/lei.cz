@@ -4,7 +4,7 @@
       Tvorba
     </h1>
     <TagCloud :data="[...povidky, ...basnicky, ...textiky]"></TagCloud>
-    <div v-show="povidky.length > 0"><h3>Povídky</h3></div>
+    <div v-show="povidky.length > 0"><h2>Povídky</h2></div>
     <CreationListLine
       v-for="(data, index) in limitedArticles(povidky)"
       v-bind:key="index"
@@ -16,7 +16,7 @@
       >
     </p>
     <div v-show="basnicky.length > 0">
-      <h3>Básničky <small>Moje pokusy na poli poezie</small></h3>
+      <h2>Básničky <small>Moje pokusy na poli poezie</small></h2>
       <CreationListLine
         v-for="(data, index) in limitedArticles(basnicky)"
         v-bind:key="index"
@@ -29,7 +29,7 @@
       </p>
     </div>
     <div v-show="textiky.length > 0">
-      <h3>Textíky <small>Krátké texty, obvykle poněkud praštěné ;)</small></h3>
+      <h2>Textíky <small>Krátké texty, obvykle poněkud praštěné ;)</small></h2>
       <CreationListLine
         v-for="(data, index) in limitedArticles(textiky)"
         v-bind:key="index"

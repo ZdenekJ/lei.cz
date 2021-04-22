@@ -28,6 +28,17 @@ export default {
         href:
             "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
       },
+        // Fonty
+      {
+        rel: 'preload',
+        as: 'style',
+        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext'
+      },
+      {
+        rel: 'preload',
+        as: 'style',
+        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext'
+      },
 
       // Twitter
       // Test on: https://cards-dev.twitter.com/validator
@@ -50,7 +61,7 @@ export default {
         hid: 'twitter:description',
         name: 'twitter:description',
         content:
-          'Můj úžasný web ;)'
+            'Můj úžasný web ;)'
       },
       {
         hid: 'twitter:image',
@@ -60,9 +71,9 @@ export default {
 
       // Open Graph
       // Test on: https://developers.facebook.com/tools/debug/
-      { hid: 'og:site_name', property: 'og:site_name', content: 'Lei.cz' },
-      { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'fb:app_id', property: 'fb:app_id', content: '997767046955778' },
+      {hid: 'og:site_name', property: 'og:site_name', content: 'Lei.cz'},
+      {hid: 'og:type', property: 'og:type', content: 'website'},
+      {hid: 'fb:app_id', property: 'fb:app_id', content: '997767046955778'},
       {
         hid: 'og:url',
         property: 'og:url',
@@ -77,7 +88,7 @@ export default {
         hid: 'og:description',
         property: 'og:description',
         content:
-          'Můj úžasný web ;)'
+            'Můj úžasný web ;)'
       },
       {
         hid: 'og:image',

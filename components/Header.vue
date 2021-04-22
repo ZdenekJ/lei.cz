@@ -6,6 +6,8 @@
         class="logo"
         src="/images/lilie.png"
         alt="Zakrvácená lilie"
+        width="96"
+        height="96"
       />
     </router-link>
     </div>

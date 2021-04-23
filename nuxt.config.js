@@ -32,12 +32,20 @@ export default {
       {
         rel: 'preload',
         as: 'style',
-        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext'
+        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext&display=swap'
       },
       {
         rel: 'preload',
         as: 'style',
-        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext'
+        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext&display=swap'
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext&display=swap'
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext&display=swap'
       },
 
       // Twitter
@@ -60,8 +68,7 @@ export default {
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content:
-            'Můj úžasný web ;)'
+        content: 'Web povídek, básniček a myšlenek jednoho pisálka'
       },
       {
         hid: 'twitter:image',
@@ -87,8 +94,7 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content:
-            'Můj úžasný web ;)'
+        content: 'Web povídek, básniček a myšlenek jednoho pisálka'
       },
       {
         hid: 'og:image',

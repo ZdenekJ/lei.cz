@@ -23,10 +23,24 @@ export default {
         rel: "stylesheet",
         href: "//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css",
       },
+        // Fonty
       {
-        rel: "stylesheet",
-        href:
-            "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
+        rel: 'preload',
+        as: 'style',
+        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext&display=swap'
+      },
+      {
+        rel: 'preload',
+        as: 'style',
+        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext&display=swap'
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext&display=swap'
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext&display=swap'
       },
         // Fonty
       {
@@ -60,8 +74,7 @@ export default {
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content:
-            'Můj úžasný web ;)'
+        content: 'Web povídek, básniček a myšlenek jednoho pisálka'
       },
       {
         hid: 'twitter:image',
@@ -87,8 +100,7 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content:
-            'Můj úžasný web ;)'
+        content: 'Web povídek, básniček a myšlenek jednoho pisálka'
       },
       {
         hid: 'og:image',

@@ -68,8 +68,7 @@ export default {
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content:
-            'Můj úžasný web ;)'
+        content: 'Web povídek, básniček a myšlenek jednoho pisálka'
       },
       {
         hid: 'twitter:image',
@@ -95,8 +94,7 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content:
-            'Můj úžasný web ;)'
+        content: 'Web povídek, básniček a myšlenek jednoho pisálka'
       },
       {
         hid: 'og:image',

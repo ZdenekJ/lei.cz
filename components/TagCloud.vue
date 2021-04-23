@@ -1,7 +1,9 @@
 <template>
   <div class="tag_cloud" v-show="dataWithTags && dataWithTags.length > 0">
-    <h4>Tagy</h4>
-    <span v-for="item in tagCloud" :class="item.cssClass"><NuxtLink :to="'/tagy/' + item.tag"><span>{{ item.tag}} </span></NuxtLink> </span>
+    <h5><div>Tagy</div></h5>
+    <div class="allTags">
+      <span v-for="item in tagCloud" class="tag" :class="item.cssClass"><NuxtLink :to="'/tagy/' + item.tag"><span>{{ item.tag}}</span></NuxtLink> </span>
+    </div>
   </div>
 </template>
 
@@ -50,10 +52,10 @@ export default {
     const tagCloud = [];
     tags.forEach((el) => {
           const value = occurrences.get(el);
-          let cssClass = 'tag-small';
-          if (value === maxOccurrence) cssClass = 'tag-bigger'
-          else if (value >= (maxOccurrence * 2 / 3)) cssClass = 'tag-big'
-          else if (value >= (maxOccurrence / 3)) cssClass = 'tag-medium';
+          let cssClass = 'tag--small';
+          if (value === maxOccurrence) cssClass = 'tag--biggest'
+          else if (value >= (maxOccurrence * 2 / 3)) cssClass = 'tag--big'
+          else if (value >= (maxOccurrence / 3)) cssClass = 'tag--medium';
 
           tagCloud.push({tag : el, cssClass : cssClass })
         }

@@ -1,12 +1,14 @@
-.news {
-  margin: 1em auto;
-}
-.news > h2 {
-  margin-top: .05em;
-}
+@import '../helpers/all';
 
-@media (max-width: 767px) {
-  .news > h2 {
-    text-align: left;
+.news{
+  margin: 0.4rem auto;
+}
+.news > h2{
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+
+  @include media-breakpoint-up(sm){
+    text-align: right;
   }
 }
+

@@ -1,37 +1,53 @@
-//@import url(https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext);
-//@import url(https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext);
+@import '../helpers/all';
 
-html, body {
+html,
+body{
   font-size: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
   font-family: 'Russo One', 'Arial Black', sans-serif;
 }
 
-h1 {
-  font-size: 2.8em;  
+h1{
+  font-size: 2.8rem;
 }
 h2{
-  font-size: 24px;
+  font-size: 1.88rem;
 }
-p, span {
-    font-family: 'Headland One', Georgia, serif;
-    letter-spacing: 0.025em;
-  }
-  
-  .nav {
-    font-family: 'Headland One', Georgia, serif;
-    letter-spacing: 0.1em;
-    font-size: 120%;
-  }
+p,
+span{
+  font-family: 'Headland One', Georgia, serif;
+  letter-spacing: 0.025rem;
+}
 
-#main {
-  p, span {
+.nav{
+  font-size: 120%;
+  font-family: 'Headland One', Georgia, serif;
+  letter-spacing: 0.09rem;
+}
+
+article{
+
+  p,
+  span{
     line-height: 1.7;
   }
-  ol, ul {
+
+  ol,
+  ul{
     font-family: 'Headland One', Georgia, serif;
-    letter-spacing: 0.025em;
+    letter-spacing: 0.025rem;
   }
+}
+small{
+  color: #777;
+  font-weight: 400;
+  font-size: 65%;
+  line-height: 1;
 }

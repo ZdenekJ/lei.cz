@@ -32,12 +32,20 @@ export default {
       {
         rel: 'preload',
         as: 'style',
-        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext'
+        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext&display=swap'
       },
       {
         rel: 'preload',
         as: 'style',
-        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext'
+        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext&display=swap'
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext&display=swap'
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext&display=swap'
       },
 
       // Twitter

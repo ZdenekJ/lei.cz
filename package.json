@@ -1,7 +1,7 @@
 {
   "name": "lei.cz",
-  "version": "1.0.0",
-  "description": "Můj web",
+  "version": "1.0.1",
+  "description": "Web povídek, básniček a myšlenek jednoho pisálka",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

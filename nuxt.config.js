@@ -23,11 +23,6 @@ export default {
         rel: "stylesheet",
         href: "//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css",
       },
-      {
-        rel: "stylesheet",
-        href:
-            "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
-      },
         // Fonty
       {
         rel: 'preload',

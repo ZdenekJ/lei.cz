@@ -1,77 +1,91 @@
 @import '../helpers/all';
 
-.social-share {
-  
-  
-  .btn {
-    &:hover, &:focus {
+.social-share{
+
+  .btn{
+    &:hover,
+    &:focus{
       box-shadow: none;
     }
   }
 
-  .facebook {
+  .facebook{
+    color: #fff;
     background-color: #5271b2;
-    border: none;
-    color: #fff;  
-    &:hover, &:focus {
+    border: 0;
+
+    &:hover,
+    &:focus{
       background-color: #5271b2;
       box-shadow: 0 0 8px rgba(82, 113, 178, 0.5);
     }
   }
 
-  .googlePlus {
-    background-color: #df483d;
-    border: none;
+  .googlePlus{
     color: #fff;
-    &:hover, &:focus {
+    background-color: #df483d;
+    border: 0;
+
+    &:hover,
+    &:focus{
       background-color: #df483d;
       box-shadow: 0 0 8px rgba(223, 72, 61, 0.5);
     }
   }
 
-  .twitter {
-    background-color: #5ba6f2;
-    border: none;
+  .twitter{
     color: #fff;
-    &:hover, &:focus {
+    background-color: #5ba6f2;
+    border: 0;
+
+    &:hover,
+    &:focus{
       background-color: #5ba6f2;
       box-shadow: 0 0 8px rgba(91, 166, 242, 0.5);
     }
   }
 }
 
-footer .socialButtons {
-  &> a {
+footer .socialButtons{
+  > a{
     display: inline-block;
     width: 88px;
     height: 60px;
-    line-height: 60px;
-    font-size: 56px;
     color: #fff;
+    font-size: 56px;
+    line-height: 60px;
     border-radius: 10px;
-    img {vertical-align: top}
+
+    img{
+      vertical-align: top;
+    }
   }
-  .facebook-page {
+
+  .facebook-page{
     width: 60px;
     background-color: #3f67c0;
-    &:hover {
+
+    &:hover{
       background-color: #3f67c0;
     }
   }
-  .google-page {
+
+  .google-page{
     width: 60px;
     background-color: #eb5b4c;
-    &:hover {
+
+    &:hover{
       background-color: #eb5b4c;
     }
   }
-  .twitter-page {
+
+  .twitter-page{
     width: 60px;
     background-color: #35b5eb;
-    &:hover {
+
+    &:hover{
       background-color: #35b5eb;
     }
   }
-  
-  
+
 }

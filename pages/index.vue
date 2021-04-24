@@ -4,8 +4,8 @@
       Novinky
     </h1>
     <div class="news row" v-for="{ id, date, text } in news.body" :key="id">
-      <h2 class="col-sm-3 text-right">{{ date }}</h2>
-      <p class="col-sm-9">{{ text }}</p>
+      <h2 class="col-sm-4 col-md-3">{{ date }}</h2>
+      <p class="col-sm-8 col-md-9">{{ text }}</p>
     </div>
   </article>
 </template>

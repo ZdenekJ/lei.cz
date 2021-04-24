@@ -1,3 +1,5 @@
-#site-footer {
-  padding: 1em;
+@import '../../helpers/all';
+
+.col > footer {
+  padding: 1rem;
 }

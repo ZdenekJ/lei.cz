@@ -1,10 +1,9 @@
-@import '../helpers/all';
 
 html,
 body{
   margin: 0;
   padding: 0;
-  background: $background-color-main;
+  background: transparent;
 }
 body{
   overflow-y: scroll;
@@ -16,12 +15,6 @@ body{
   padding: 0 1rem;
 }
 a{
-  color: #2f70a8;
-  text-decoration: none;
-}
-a:hover,
-a:focus,
-a:active{
-  color: #1f4b70;
+  color: #000;
   text-decoration: underline;
 }

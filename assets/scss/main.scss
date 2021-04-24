@@ -1,8 +1,24 @@
+@import 'helpers/all';
+
+
+// 4. Include any optional Bootstrap components as you like
+@import '../../node_modules/bootstrap/scss/root';
+@import '../../node_modules/bootstrap/scss/reboot';
+@import '../../node_modules/bootstrap/scss/type';
+@import '../../node_modules/bootstrap/scss/images';
+@import '../../node_modules/bootstrap/scss/containers';
+@import '../../node_modules/bootstrap/scss/grid';
+
+
 // Modules and Variables
 @import 'base/base';
+@import 'base/typography';
+
+@import 'layout/page';
 
 @import 'components/header';
-@import 'components/nav';
+@import 'components/navigation';
+@import 'components/post';
 @import 'components/article';
 @import 'components/news';
 @import 'components/forms';
@@ -10,14 +26,3 @@
 @import 'components/footer';
 @import 'components/social';
 @import 'components/tags';
-
-
-//@import 'partials/admin/header';
-//@import 'partials/admin/tags-input';
-
-// Third-party
-// @import 'vendor/colorpicker';
-// @import 'vendor/jquery.ui.core';
-
-
-// Print styles

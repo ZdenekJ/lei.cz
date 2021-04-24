@@ -1,0 +1,117 @@
+@import '../helpers/all';
+
+.nav{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+  padding-left: 0;
+  font-weight: bold;
+  list-style: none;
+}
+
+.nav__item{
+  flex: 1 1 100%;
+}
+
+.nav__item + .nav__item{
+  margin-top: 0.4rem;
+}
+
+.nav__link.active{
+  color: #fff;
+  background-position-x: 0;
+}
+
+.nav__link{
+  z-index: 50;
+  display: block;
+  padding: 0.2rem 0.4rem;
+  color: $text-color-main;
+  line-height: 2;
+  text-align: center;
+  text-decoration: none;
+  background: linear-gradient(90deg, var(--nav-link-bg-color) 50%, transparent 50%) 94%;
+  background-size: 200% 100%;
+  border-radius: 0.6rem;
+  transition: background-position 0.3s ease-in-out, color 0.15s ease-in-out;
+
+  @media (prefers-reduced-motion) {
+    transition: background-position 0.01s ease-in-out, color 0.01s ease-in-out;
+  }
+}
+
+.nav__link:hover{
+  color: #fff;
+  text-decoration: none;
+  background-position-x: 0;
+}
+
+.nav__link:focus{
+  outline: 1px dotted #000;
+}
+
+.home{
+  --nav-link-bg-color: #{ $menu-color-home };
+}
+
+.creations{
+  --nav-link-bg-color: #{ $menu-color-creations };
+}
+
+.gallery{
+  --nav-link-bg-color: #{ $menu-color-gallery };
+}
+
+.guestbook{
+  --nav-link-bg-color: #{ $menu-color-guestbook };
+}
+
+.blog{
+  --nav-link-bg-color: #{ $menu-color-blog };
+}
+
+@include media-breakpoint-up(md){
+  .nav{
+    flex-direction: row;
+  }
+  .nav__item + .nav__item{
+    margin-top: 0;
+  }
+
+  .nav__link{
+    background: linear-gradient(0, var(--nav-link-bg-color) 50%, transparent 50%) 0 10%;
+    background-size: 100% 200%;
+  }
+  .nav__link:hover{
+    background-position-y: 100%;
+  }
+  .nav__link.active{
+    background-position-y: 100%;
+  }
+}
+
+.sub-menu{
+  flex-direction: row;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  font-size: 90%;
+
+  .nav__item{
+    flex: 0 0 0;
+  }
+
+  .nav__item + .nav__item{
+    margin-top: 0;
+    margin-left: 0.4rem;
+  }
+
+  .nav__link{
+    background: $background-color-main;
+  }
+
+  .creations:hover,
+  .creations--active{
+    color: $text-color-main;
+    background: rgba(144, 82, 0, 0.2);
+  }
+}

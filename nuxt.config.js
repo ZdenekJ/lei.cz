@@ -42,18 +42,6 @@ export default {
         rel: 'stylesheet',
         href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext&display=swap'
       },
-        // Fonty
-      {
-        rel: 'preload',
-        as: 'style',
-        href: 'https://fonts.googleapis.com/css?family=Headland+One&subset=latin,latin-ext'
-      },
-      {
-        rel: 'preload',
-        as: 'style',
-        href: 'https://fonts.googleapis.com/css?family=Russo+One&subset=latin,latin-ext'
-      },
-
       // Twitter
       // Test on: https://cards-dev.twitter.com/validator
       {

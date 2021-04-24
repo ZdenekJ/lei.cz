@@ -25,6 +25,7 @@
   "homepage": "https://github.com/ZdenekJ/lei.cz#readme",
   "dependencies": {
     "@nuxt/content": "^1.14.0",
+    "bootstrap": "^5.0.0-beta3",
     "nuxt": "^2.15.4"
   },
   "devDependencies": {

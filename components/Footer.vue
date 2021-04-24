@@ -1,5 +1,5 @@
 <template>
-  <footer id="site-footer" class="text-center">
+  <footer class="text-center">
     <hr class="hr-text" />
     <span>&copy;2003 - {{ thisYear }} Lei</span>
     <script type="text/javascript">

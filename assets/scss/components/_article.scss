@@ -1,66 +1,50 @@
-@import "../base/_colors";
+@import '../helpers/all';
 
-article {
+article{
   position: relative;
 }
 
-article > h1 {
-  margin: 1em auto;  
+article > h1{
+  margin: 1.2rem auto;
 }
 
-article footer {
-  margin: 1em 0 5em;
+article footer{
+  margin: 1rem 0;
 }
 
-.opening-quote {
+.opening-quote{
   position: absolute;
   right: 100%;
 }
 
-.preview {
-  background-color: darken($main-bg, 10%);
-  margin-top: 1em;
-  border-radius: .5em;
-  padding: 1em 1em 0;
-  
-  &:before {
-    background-color: $main-bg;
-    border-radius: .5em;
-    content: "Nahled";
-    padding: 0.5em;
-  }
-}
-
-.hr-text {
-  line-height: 1em;
+.container-fluid .hr-text{
   position: relative;
-  outline: 0;
-  border: 0;
-  color: black;
+  height: 1.5rem;
+  color: #000;
+  line-height: 1;
   text-align: center;
-  height: 1.5em;
-  opacity: .5;
-  
-  &:before {
-    content: '';
-    // use the linear-gradient for the fading effect
-    // use a solid background color for a solid bar
-    background: linear-gradient(to right, transparent, $main-border, transparent);
+  background-color: transparent;
+  border: 0;
+  outline: 0;
+  opacity: 0.5;
+
+  &::before{
     position: absolute;
-    left: 0;
     top: 50%;
+    left: 0;
     width: 100%;
     height: 1px;
+    background: linear-gradient(to right, transparent, $border-color-main, transparent);
+    content: '';
   }
-  
-  &:after {
-    content: attr(data-content);
+
+  &::after{
     position: relative;
     display: inline-block;
-    padding: 0 .5em;
-    line-height: 2em;
-    color: $main-border;
-    background-color: $main-bg;
+    padding: 0 0.5rem;
+    color: $border-color-main;
+    line-height: 1.9;
+    background-color: $background-color-main;
+    content: attr(data-content);
   }
-  
 }

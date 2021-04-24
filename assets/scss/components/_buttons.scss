@@ -1,37 +1,36 @@
-@import "../base/_colors";
-@import "../helpers/_mixins";
+@import '../helpers/all';
 
 .label {
-  padding: 0.3em 0.6em 0.2em;
+  padding: 0.3rem 0.6rem 0.2rem;
 }
 
 .btn {
   font-weight: bold;
-  border-color: $main-border;
+  border-color: $border-color-main;
   
   &:hover, &:focus {
-    @include button-form-shadow();
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(255, 153, 0, 0.6);
   }
   
 }
 
 .btn-default {
-  background: $main-bg ;
+  background: $background-color-main;
  
   &:hover, &:focus {
-    background: $main-bg;
-    border-color: $main-border ;
+    background: $background-color-main;
+    border-color: $border-color-main;
   }
 
 }
 
 .btn-primary {
-  background: $main-border ;
-  border-color: $main-border;
+  background: $border-color-main;
+  border-color: $border-color-main;
   
   &:hover, &:focus {
-    background: $main-border;
-    border-color: $main-border;
+    background: $border-color-main;
+    border-color: $border-color-main;
   }
   
 }
@@ -40,9 +39,9 @@
   cursor: default;
   
   &:hover {
+    background: $background-color-main;
+    border-color: $border-color-main;
     box-shadow: none;
-    background: $main-bg ;
-    border-color: $main-border;
   }
   
 }

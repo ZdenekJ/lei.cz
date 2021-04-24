@@ -1,60 +1,61 @@
 <template>
   <nav>
-    <ul class="nav nav-tabs nav-justified main-menu">
-      <li role="presentation">
-        <router-link to="/" class="home" active-class="active"
+    <ul class="nav">
+      <li class="nav__item" role="presentation">
+        <router-link to="/" class="nav__link home" active-class="active"
                      title="Co je nového?" exact
         >Novinky
         </router-link
         >
       </li>
-      <li role="presentation">
+      <li class="nav__item" role="presentation">
         <router-link
             to="/tvorba/"
+            class="nav__link"
             v-bind:class="isCreationsRoute ? 'creations active' : 'creations'"
             title="Moje tvorba - povídky, básničky a pod."
         >Tvorba
         </router-link>
       </li>
-      <li role="presentation">
+      <li class="nav__item" role="presentation">
         <router-link
             to="/vzkaznik/"
-            class="guestbook"
+            class="nav__link guestbook"
             active-class="active" title="Napište mi ;)"
         >Vzkazník
         </router-link
         >
       </li>
-      <li role="presentation">
-        <router-link to="/blog/" class="blog" active-class="active"
+      <li class="nav__item" role="presentation">
+        <router-link to="/blog/" class="nav__link blog" active-class="active"
                      title="Prostě blog"
         >Blog
         </router-link>
       </li>
     </ul>
-    <ul class="nav nav-pills sub-menu" v-show="isCreationsRoute">
-      <li role="presentation">
+    <ul class="nav sub-menu" v-show="isCreationsRoute">
+      <li role="presentation" class="nav__item">
         <router-link
             to="/povidky/"
-            class="creations"
+            class="nav__link creations"
             active-class="creations--active"
             title="Povídky"
         >Povídky
         </router-link>
       </li>
-      <li role="presentation">
+      <li role="presentation" class="nav__item">
         <router-link
             to="/basnicky/"
-            class="creations"
+            class="nav__link creations"
             active-class="creations--active"
             title="Moje pokusy na poli poezie"
         >Básničky
         </router-link>
       </li>
-      <li role="presentation">
+      <li role="presentation" class="nav__item">
         <router-link
             to="/textiky/"
-            class="creations"
+            class="nav__link creations"
             active-class="creations--active"
             title="Krátké texty, obvykle poněkud praštěné ;)"
         >Textíky

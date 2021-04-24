@@ -1,3 +1,5 @@
+@import '../../helpers/all';
+
 #site-header {
   margin: 2em auto;
 }
@@ -13,7 +15,7 @@
 
 #site-logo-text {
   font-family: 'Russo One', 'Arial Black', sans-serif;
-  color: #333;
+  color: $text-color-main;
   margin: 0 auto;
   font-size: 2em;
   display: block;

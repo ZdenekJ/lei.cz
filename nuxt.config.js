@@ -19,10 +19,6 @@ export default {
       {hid: "description", name: "description", content: "Meta description"},
     ],
     link: [
-      {
-        rel: "stylesheet",
-        href: "//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css",
-      },
         // Fonty
       {
         rel: 'preload',

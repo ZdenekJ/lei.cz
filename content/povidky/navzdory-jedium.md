@@ -38,7 +38,7 @@ Víc toho říct nestačil. Vytrhl jsem od pasu blaster a vystřelil mu dvakrát
 
 Teď se uvidí, jestli víc fungují slova spolu s mávnutím ruky nebo slova doprovázená střelbou z blastru. Vystřelil jsem od boku, ale mířil jsem přesně, umím to. Vypálil jsem ještě třikrát. Ale dřív než jsem poprvé zmáčkl spoušť, držela v ruce světelný meč a všechny mé střely srazila neškodně k zemi. Pak mávla rukou v jiném, důraznějším gestu. Odletěl jsem na stěnu za mnou a tvrdě narazil. Ztratil jsem vědomí.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Probudil jsem se ležící na nějaké posteli. Sedl jsem si a rozhlédl se. Určitě to byla vězeňská cela. Jen jedna postel, skříň a tam za zástěnou bude sprcha a záchod. Okno zde bylo jen jedno. Malé a vysoko u stropu, ale místnost osvětlovalo dostatečně. Pod oknem stál stolek a na něm pohár vody. A vedle malá sklenička na léky. Byly v ní nějaké modré čočkovité pilulky. Vzal jsem lahvičku do ruky.
 
@@ -72,7 +72,7 @@ Zatvářil jsem se trošku nechápavě.
 
 Strčil jsem lahvičku s léky do kapsy a jako ve snách se šátral k východu. Už jsem byl skoro u dveří, když jsem v boční chodbě uviděl ženskou postavu. Bylo to Jane nebo jak jí ten dědek říkal, ta ženská, co se mnou praštila o zeď. Projel mnou vztek. Sáhl jsem k pasu a … Došlo mi, že zbraň mi sebrali. Nahmátl jsem jen léky v kapse. Pro jistotu jsem si hned dva prášky vzal. Chutnaly příšerně, ale uklidnily mě.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Dopotácel jsem se do své lodi a zapadl do kuchyňky. „Hroch“ stál hned za městem, byla to stará, velká a bachratá obchodní loď, většinu zabíraly rozsáhlé skladovací prostory, v části jsem před pár lety postavil speciální výrobní linku. Na ní jsem zvládl vytvořit skoro cokoliv. Nejvíc jsem vyráběl speciální úpravy pro roboty nebo náhradní díly. Originální jsou drahé a těžko se shání. Docela dobře to neslo, stejně jako obchod.
 
@@ -102,7 +102,7 @@ On i robot tasili zbraně, ale Maien byla rychlejší. Muže Silou odhodila na z
 
 Byl jsem natolik v šoku, že jsem se nezmohl na reakci, jen jsem tam stál a zíral. Až za několik minut jsem se probral a rozběhl se za nimi, ale nebylo to nic platné. Jediné, co jsem se dozvěděl, že moji Maien chtějí popravit a dostal jsem tu lahvičku prášků. Měl bych si zase jeden vzít, cítím, že se začínám příliš rozčilovat.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Musím ji nějak zachránit. Jenže jak? Po dobrém to určitě nepůjde, porušení zákona to bylo, navíc použití temné strany Síly znamená smrt. V sebeobraně, nikoho nezabila, ale to je nezajímá. Nezajímá je, že nikdy nikomu neublížila, že se naopak snaží pomáhat, že není hrozbou, že to není žádný prokletý Sith. Dobrý právník by ji z toho určitě dostal. Bohužel v životě jsem nikdy ani neviděl pohromadě tolik peněz, kolik takový právník stojí. Na jeden den.
 
@@ -134,7 +134,7 @@ Bylo to překvapující, útočník použil jakousi střelnou zbraň, která sna
 
 Začal jsem nad tímhle nápadem vážně uvažovat. Jedi by určitě dokázal zastavit spoustu kulek Silou a dost jich ještě zneškodnit mečem. Ale zjistil jsem, že tyhle zbraně měly mnohonásobně vyšší kadenci než současný nejrychlejší opakovací blaster. A to už by možná nestačil zastavit ani Jedi. Za pokus to stojí a lepší nápad nemám. Několik příštích dní je o práci postaráno.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Prošel jsem několik typů těchto pravěkých zbraní, vybral ty údajně nejúčinnější a nechal počítač zkonstruovat novodobou střelnou zbraň. Vznikla tak podivná dvojhlavňová věc, ale počítač tvrdil, že je to optimální volba. Na mojí výrobní lince nebyl skoro žádný problém ji vyrobit. Použil jsem ty nejkvalitnější materiály a doufal, že zbraň bude splňovat mé představy.
 
@@ -144,7 +144,7 @@ Konečně jsem měl hotovou novou pušku i použitelné náboje. S těmi jsem se
 
 Příští den měla být poprava, zalezl jsem brzy do postele a nechal robota, ať do nábojového pásu nastrká na přeskáčku všechny tři druhy munice, pěkně po sobě. Nevím, co na Jedie bude zabírat, takhle to budu mít všechno pohromadě.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Druhý den ráno jsem nabil kulomet, ukryl ho pod vnější obal údržbářského robota, takže vypadal celkem nenápadně, nasedl do vznášedla a vyrazil ke kapitule. Zastavil jsem u bočního vchodu, odkud jsem minule odcházel. Předpokládal jsem, že tam je vězení. Už na mě čekali. Ten stařec i ta ženská. Nikoho dalšího jsem neviděl, ale věděl jsem, že jich tu je celkem dvanáct. Vystoupil jsem ze vznášedla a nechal ho stát před vchodem. Tvářil jsem se zničeně.
 

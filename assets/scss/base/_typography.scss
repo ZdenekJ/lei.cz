@@ -2,6 +2,7 @@
 
 html,
 body{
+  color: $text-color-main;
   font-size: 100%;
 }
 
@@ -11,14 +12,22 @@ h3,
 h4,
 h5,
 h6{
+  font-weight: 500;
   font-family: 'Russo One', 'Arial Black', sans-serif;
+  line-height: 1.2;
 }
 
 h1{
+  margin: 0;
+  padding: 1rem 0;
   font-size: 2.8rem;
+  text-align: center;
 }
 h2{
   font-size: 1.88rem;
+}
+h3{
+  font-size: 1.5rem;
 }
 p,
 span{
@@ -45,7 +54,7 @@ article{
   }
 }
 small{
-  color: #444;
+  color: $text-color-secondary;
   font-weight: 400;
   font-size: 65%;
   line-height: 1;

@@ -16,7 +16,7 @@ A přitom to ze začátku vypadalo jako jednoduchá prácička. Možná mě měl
 
 Suma, kterou mi nabídla, byla zajímavá, ale přesto jsem se jí musel zeptat proč. Porušil jsem tak základní pravidla slušnosti a vztahů se zákazníkem, ale prostě jsem to chtěl vědět. Proč zrovna já mám hledat její zatoulanou kočku?
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 „Kocourka,“ opravila mě včera, když jsem jí položil stejnou otázku.
 
@@ -86,7 +86,7 @@ Zkontroloval jsem údaje na mobilu a nechal si najít další Uhlíkův postup. 
 
 Cesta, kterou mi promítal do brýlí, se znovu vykreslila. Byla úplně stejná.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Naštvaně jsem nakopl zmačkanou plechovku od piva ležící na ulici. Odlétla ke stěně a hlasitě zarachotila.
 

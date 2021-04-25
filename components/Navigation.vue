@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <ul class="nav">
+    <ul class="nav nav--mainMenu">
       <li class="nav__item" role="presentation">
         <router-link to="/" class="nav__link home" active-class="active"
                      title="Co je nového?" exact
@@ -33,7 +33,7 @@
         </router-link>
       </li>
     </ul>
-    <ul class="nav sub-menu" v-show="isCreationsRoute">
+    <ul class="nav nav--subMenu" v-show="isCreationsRoute">
       <li role="presentation" class="nav__item">
         <router-link
             to="/povidky/"

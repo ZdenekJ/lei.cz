@@ -14,7 +14,7 @@ Stejným způsobem strávil noc i Martin. Nebyl schopen nalézt takovou polohu, 
 
 Zavzpomínal na události před týdnem, které nakonec vyústily v jeho současnou nepříjemnou pozici. Nebo to již je deset dní? Nebo dva týdny? Zjistil, že není schopen spočítat, kolik dnů je již zavřený v podzemí. Ještě nedávno byl jeden z nejlepších rytířů království, dnes by ho nikdo nerozeznal od lidských trosek, jaké byly v celách kolem něj. Vzpomínky bylo jediné co mu zůstalo.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Martinova paní se té noci vrátila nečekaně brzy. Překvapilo ho to, měla večeřet se samotným králem. Dnes se měli poprvé vidět a poznat se před tím, než je spojí manželské pouto. Byl to sňatek, jako většina sňatků urozených - ne spojení dvou milovaných osob, ale sňatek na základě přání rodičů. Jeho paní by přání svého otce jistě ignorovala, kdyby šlo jen o rozšíření jeho moci, klidně by se nechala i vydědit, ale šlo o mnohem víc. O stabilitu království. Král a otec jeho paní, vévoda z Burunghemu, byli velmi dobří přátelé. Při slavné bitvě u Tří pahorků si navzájem mnohokrát zachránili životy. A později, nad pohárem vína domluvili svatbu svých dětí. Oběma se to zamlouvalo. Vévoda si vždy přál syna, ale osud mu nadělil jedinou dceru. Ta ho však velmi překvapila, když během dospívání dokázala víc, než by kdy očekával od syna. Dal jí proto vzdělání, které by dostal jeho dědic. Jeho dcera teď dobře ovládala válečnou strategii a taktiku, měla přehled o politické situaci v království, skvěle zvládala diplomacii, byla sebevědomá a uměla se rychle a hlavně správně rozhodovat. Byla to přesně ta žena, kterou by si král přál pro svého syna.
 
@@ -58,7 +58,7 @@ Přikývla na srozuměnou. Tasil meč a prudce vyrazil dolů ulicí, směrem ven
 
 Stráže ho v kruhu obstoupily. Čekal na boj. Věděl že zemře, ale svůj život prodá co nejdráže. Pak ho něco zezadu udeřilo do hlavy a svět zčernal.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Probral se až tady. Uprostřed temného sklepení, kde jediné světlo zajišťovaly olejové lampy řídce rozmístěné po stěnách chodby. Hodinu poté, co se probral, začal jeho výslech. Dva strážní ho odvlekli temnou chodbou do místnosti, která vypadala jako mučírna a pevně ho připoutali k masivní židli v jejím středu. Zde poprvé uviděl nové královy rádce. Měli na něj spoustu dotazů a chtěli je vědět co nejdřív. Na všechny otázky bylo jeho odpovědí jen ticho a vzdorovitý pohled. Zkusili na něj tlačit. Vyhrožovali mu, prosili, snažili se ho podplatit. Lhali mu o jeho paní a snažili se ho přesvědčit o její vině. A chtěli jen jedinou odpověď. Kde? Kde se nachází jeho paní? Věděl, že on to nikdy neprozradí. Po několika hodinách do místnosti vstoupil voják a pošeptal něco jednomu z trojice vyslýchajících mužů. Ten přikývl a mávl rukou na své kolegy, že budou muset odejít. Ve dveřích věnoval Martinovi zlobný pohled: „Počkej zítra...“
 
@@ -80,7 +80,7 @@ Při představě, že by dívku chytili, se Martinovi udělalo špatně. Ale ona
 
 „Ne, opravu s vámi nepůjdu!“ vykřikl a uhnul před hladící rukou. V ten okamžik si znovu uvědomil bolest ze zranění a omdlel. Žena v černém pomalu vstala a přihladila si šaty. Chvilku Martina pozorovala, pak smutně zavrtěla hlavou a pomalu vyšla z cely ven.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Druhý den čekalo Martina překvapení. V mučící místnosti byli opět královi rádci, kteří jinak mučení nepřihlíželi. Aspoň od doby, co se jim jednou všem udělalo velice nevolno z katovy práce. A nebyl s nimi nikdo, kdo ho dřív mučil, ale menší starý mužíček s vyholenou hlavu, jen vzadu měl dlouhý cop. Podle malých zešikmených oček Martin odhadoval, že bude odněkud z východu. Slyšel o takovýchto lidech, ale nikdy je neviděl.
 
@@ -112,7 +112,7 @@ Martina pocítil stejný strach jako minule, začal se bát, že ONA je jen past
 
 Vytrhl se z jejího sevření. Ihned na něj dopadla veškerá bolest a on opět omdlel. Neznámá žena vstala, prohlédla si Martina smutnýma očima a odešla pryč.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Druhý den ráno byl Martin dosti vyděšený. Další den v rukou toho člověka z východu bude šílený. Ale on nesmí promluvit.
 

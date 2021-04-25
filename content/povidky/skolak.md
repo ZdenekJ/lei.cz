@@ -41,7 +41,7 @@ Dostal nápad. Prvně se ho trochu zalekl, ale přimělo ho to, aby přestal bre
 
 Rozhodl se. Byl ve třídě v přízemí, z okna to bylo na zem blíže, než když v létě skákal ze stromu. Opatrně, co nejtišeji, otevřel okno. Zatím se nic nedělo. Prudce ho rozrazil a skočil dolů. Dopadl pružně na zem, ihned se zvedl a vyrazil divoce jako fretka k protější straně ulice. Byl sotva ve třetině cesty, když uslyšel krátkou dávku ze samopalu. Něco ho srazilo k zemi. Ucítil strašlivou bolest v hrudi, najednou nemohl dýchat. Ležel na zemi a zrychleně lapal po dechu.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Velitel zásahové jednotky si chlapce všiml hned v okamžiku, kdy otevřel okno a skočil. Chtěl na něj zakřičet, ať stojí, ať nikam neutíká, ale už bylo pozdě. Chlapec dopadl na zem a rozběhl se. Vzdálil se jen několik metrů, když se v jednom okně ukázala hlaveň samopalu a zazněla střelba. Velitel viděl, jak na chlapcově hrudi vybuchuje několik jasně rudých skvrn. Malý chlapec padl k zemi, svíjel se v bolestech a lapal po dechu. Na hrudi se objevovaly krvavé bubliny, střely zasáhly plíce. Velitel věděl, že hoch nemá šanci, a že jeho smrt bude možná celkem rychlá, ale bolestivá.
 

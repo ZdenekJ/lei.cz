@@ -34,7 +34,7 @@ Bála se, strašlivě se bála, ale nedokázala křičet, plíce jí jen hořely
 
 Od stěny za nimi se odlepil stín. Ani jeden z nich si ho předtím nevšiml. Možná že tam před chvílí ještě ani nebyl.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Vložil jsem do úderu veškerou svoji rychlost a sílu. Masivní ocelová trubka urazila dobře polovinu své předpokládané dráhy, než ji lykan zaslechl. Prudce se otočil a bleskově nastavil ráně svoji paži. Nebo se spíš pokusil, zase až tak rychlý nebyl. Ale stačil se sklonit a rána místo do krku šla do temene jeho lebky. Trubka temně zaduněla a rozechvěla se mi v dlaních, jeho lebka s nepříjemným zvukem praskla. Síla úderu jím mrštila o stěnu. Svezl se po ní na zem a zůstal bezvládně ležet. Nevěnoval jsem mu dál pozornost, odhodil jsem primitivní zbraň stranou a věnoval se dívce ležící na zemi. Byla v šoku.
 

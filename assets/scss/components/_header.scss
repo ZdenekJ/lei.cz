@@ -4,7 +4,7 @@ header{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0.8rem auto;
+  margin: 0 auto;
 }
 
 .logo{
@@ -23,9 +23,8 @@ header{
   font-size: 1.2rem;
 }
 
-@include media-breakpoint-up(sm){
+@media($breakpoint-medium){
   header{
-    margin: 1.2rem auto;
   }
 
   .motto{
@@ -34,10 +33,9 @@ header{
   }
 }
 
-@include media-breakpoint-up(md){
+@media($breakpoint-max){
   header{
     justify-content: space-evenly;
-    margin: 2rem auto;
   }
 
   .logo{

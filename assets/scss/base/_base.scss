@@ -1,10 +1,20 @@
 @import '../helpers/all';
 
+*,
+*::before,
+*::after{
+  box-sizing: inherit;
+}
+
+html{
+  box-sizing: border-box;
+  background: $background-color-main;
+}
+
 html,
 body{
   margin: 0;
   padding: 0;
-  background: $background-color-main;
 }
 body{
   overflow-y: scroll;
@@ -12,16 +22,16 @@ body{
 .text-center{
   text-align: center;
 }
-.container-fluid{
-  padding: 0 1rem;
+.container{
+  padding: 1rem;
 }
 a{
-  color: #2f70a8;
+  color: $link-color;
   text-decoration: none;
 }
 a:hover,
 a:focus,
 a:active{
-  color: #1f4b70;
+  color: $link-color-active;
   text-decoration: underline;
 }

@@ -16,7 +16,7 @@ Pokud utíkáte a chcete se skrýt v davu, základní pravidlo zní, že nesmít
 
 Naskočil jsem do auta a ujížděli jsme pryč.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Uložil jsem soubor a znovu si přečetl pár posledních řádků.
 
@@ -28,7 +28,7 @@ _To je strašný. Nedrží to při sobě, je to těžkopádný a celkově divný
 
 _Mohla by to být Alice,_ napadlo mě nakonec. Ve mě to evokuje drzou rošťandu, tak snad to čtenáři budou mít podobně. Příběh se mi sice moc nelíbí, ale chci to aspoň nějak dopsat. Musím. Ostatně v Alicině bytě si jí hlavní hrdina začne víc všímat a to by se mi mohlo psát líp. Tak jdu na to.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Byt měla zařízený moderně a vkusně. Bez vyzvání jsem se zabořil do sedačky a usmál se na svoji hostitelku.
 
@@ -56,7 +56,7 @@ Probodávala mě chvíli očima, ale nakonec si ji vzala. Mrkla na ni a usmála 
 
 „S tím počítám. Pokud ne, najdu si tě sám,“ nenechal jsem jí poslední slovo. Zašklebila se na mě, já se usmál a odešel.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Uložit. Přečetl jsem si konec příběhu a složil hlavu do dlaní.
 
@@ -70,7 +70,7 @@ Postupně jsem začal psát to, co nejraději čtu. Ale naposledy jsem něco nap
 
 Občas si tak poslední roky připadám sám, že jsem bez fantasie a nemám žádný sen, za kterým bych chtěl jít. Ale pořád si pamatuji svoji touhu psát. Tak teď přepisuji vzpomínky na film a doufám, že se zase chytnu a začnu tvořit. Ale zatím to tak necítím. Ta povídka je podprůměrná a konec se mi moc nelíbí. Snad je popis Alice a sexu jsem si užil. A velmi barvitě představoval. Ostatně to už nebyl přepis filmu, ale vlastní invence. Ovšem stejně by to šlo vymyslet líp. Chtělo by to ještě přepsat. Ale dnes už ne. Třeba zítra.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Neudělat něco hned, ale odložit to, může být ošemetné. Celkem lehce se z někdy stane nikdy. Druhý den se mi nic přepisovat nechtělo. Pak jsem potřeboval jít nakoupit. Další den jsem raději uklízel. Následovala výmluva za výmluvou, ale když byl víkend, rozhodl jsem se, že prostě musím. Musím pokračovat v psaní.
 
@@ -152,7 +152,7 @@ Zvedl jsem se k odchodu a na rozloučenou ji políbil.
 
 „S tím počítám,“ usmál jsem se, ještě jednou ji políbil a odešel.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Domů se mi šlo krásně lehce. Elis dokázala urovnat moje myšlenky ještě lépe než příroda. Navíc jsem měl plnou hlavu inspirací, které jsem mohl použít na přepsání té závěrečné scény. Strašně jsem se na to těšil. Jen jsem došel domů, pustil jsem počítač a dal se do čtení. Hlavu jsem měl pořád plnou Elis, jejích rusých vlasů a krásných křivek. Oči mi běžely textem, ale najednou se zasekly. Přečetl jsem si těch několik řádků znovu. A mnohem pomaleji.
 
@@ -184,7 +184,7 @@ Musel jsem souhlasit. Tohle je nesmysl. Dál jsem uvažoval nad možnostmi a č�
 
 „Tak čaruj!“ povzbudil jsem se a začal psát. Se zápalem jsem skládal příběh, jak mi Alice zavolá a…
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Tři dny se nic nedělo, jen já každou minutu sahal po mobilu, jestli tam není zmeškaný hovor. Ale samozřejmě nic.
 

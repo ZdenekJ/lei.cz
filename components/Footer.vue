@@ -1,6 +1,6 @@
 <template>
-  <footer class="text-center">
-    <hr class="hr-text" />
+  <footer>
+    <hr/>
     <span>&copy;2003 - {{ thisYear }} Lei</span>
     <script type="text/javascript">
              let stylesheet = document.createElement('link');

@@ -20,7 +20,7 @@ Pozorně jsem si prohlížel okolí. V této čtvrti převládaly rodinné dvoup
 
 Iveta bydlela v domku číslo dvanáct. Od jejích kamarádek, jsem věděl, že zde žije se svými rodiči, ale ti jsou nyní na dovolené u moře. Přestěhovala se zpět k nim po té, co ji odkopl její bývalý přítel. Byla z toho ještě pořád docela smutná a to byl po narozeninách další důvod, proč pro ni její kamarádky zaplatily moji společnost.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Iveta odemkla vchodové dveře, vstoupila do domku a rychle vyťukala zabezpečovací kód na klávesnici elektronického hlídače. Vstoupil jsem za ní dovnitř, zavřel dveře a zamčel.
 
@@ -220,7 +220,7 @@ Jeho přání a sny byly natolik silné, že přehlušily vše, co přicházelo 
 
 Znovu přišla další zvrácená představa. Ještě více rozdmýchala moji zuřivost a já veden jen instinkty vyrazil pryč.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Ze schodů jsem sešel jako ve snách. Nevnímal jsem okolí, neuvědomoval jsem si co dělám, kam jdu. Zatřásl jsem hlavou ve snaze zbavit se hrůzného obrazu v mé hlavě, ale nepomohlo to. Najednou jsem si uvědomil, že stojím v předsíni pár metrů od vchodových dveří. V pravé ruce jsem něco držel. Pomalu jsem se podíval dolů, abych zjistil co to je. Byl to elektrický kabel, dvoulinka, evidentně vytržený z nějakého elektrozřízení. Přemýšlel jsem, proč bych ho, proboha, od někud rval. Pak jsem si všiml, že to není klasický umělohmotný kabel, ale že je gumový. Byl úzký a díky gumovému povrchu taky pěkně pružný a vláčný. Zkusmo jsem lehce máchl rukou. Smyčka kabelu dopadla se zamlaskáním na levé předloktí a obtočila ho. Přestože jsem použil malou sílu, štíplo to docela dost, na levačce mi okamžitě naskočil rudý obtisk. Ošklivě jsem se zašklebil a vykročil ke dveřím.
 

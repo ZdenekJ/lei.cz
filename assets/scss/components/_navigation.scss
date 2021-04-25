@@ -30,7 +30,7 @@
   line-height: 2;
   text-align: center;
   text-decoration: none;
-  background: linear-gradient(90deg, var(--nav-link-bg-color) 50%, transparent 50%) 94%;
+  background: transparent linear-gradient(90deg, var(--nav-link-bg-color) 50%, transparent 50%) 94% 94% !important;
   background-size: 200% 100%;
   border-radius: 0.6rem;
   transition: background-position 0.3s ease-in-out, color 0.15s ease-in-out;

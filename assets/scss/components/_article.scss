@@ -1,15 +1,28 @@
 @import '../helpers/all';
 
 article{
-  position: relative;
+  padding-bottom: 1rem;
 }
 
 article > h1{
-  margin: 1.2rem auto;
+  padding: 2rem 0 1rem;
 }
 
 article footer{
-  margin: 1rem 0;
+
+  h5,
+  h6{
+    margin: 0;
+  }
+}
+
+@media($breakpoint-max){
+  .tag_cloud + h2{
+    margin-top: 0;
+  }
+  .tag_cloud + .post{
+    margin-top: 0;
+  }
 }
 
 .opening-quote{
@@ -17,7 +30,7 @@ article footer{
   right: 100%;
 }
 
-.container-fluid .hr-text{
+.container hr{
   position: relative;
   height: 1.5rem;
   color: #000;

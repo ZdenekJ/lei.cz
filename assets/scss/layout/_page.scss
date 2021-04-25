@@ -1,11 +1,6 @@
 @import '../helpers/all';
 
-h1{
-  margin: 1rem;
-  color: $text-color-main;
-}
-
-.container-fluid{
+.container{
   max-width: 780px;
   margin: 0 auto;
 }

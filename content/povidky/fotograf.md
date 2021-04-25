@@ -64,6 +64,6 @@ Nepromluvila, ale pomalu ke mně přistoupila. Políbila mě. Cítil jsem na rte
 
 Znovu mě políbila. Hřbetem prstů mě pohladila po tváři a přitiskla na ni svoje rty. Jazykem mi po ní pomalu přejížděla níž a níž až ke krku. Políbila mě a ten pocit byl strašlivě nádherný, slastí jsem přivřel oči. Pak jsem si uvědomil, že do mě něco proniklo a já zažil pocit rozkoše tisíckrát silnější než jakýkoliv orgasmus.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Stojím na střeše panelového domu. A v ruce držím fotoaparát s masivním teleobjektivem. Zkoumavě přejíždím pohledem po okolí a přes hledáček přístroje si prohlížím osvětlená okna. Jako správný šmírák nahlížím do ložnic a soukromých životu cizích lidí. Akorát že já nehledám milující se páry, ale osamělé ženy a dívky. Chci jim poskytnout neskutečnou rozkoš. A potom uhasit svojí žízeň.

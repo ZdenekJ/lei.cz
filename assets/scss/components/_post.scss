@@ -1,9 +1,17 @@
 @import '../helpers/all';
 
 .post{
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 
-  .description p{
-    margin-bottom: 0.4rem;
+  h3{
+    margin: 0;
+  }
+
+  .post__description{
+    margin: 0.5rem 0 0;
+  }
+
+  .post__info{
+    margin: 0.5rem 0 0;
   }
 }

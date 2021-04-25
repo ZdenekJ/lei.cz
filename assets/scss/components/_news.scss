@@ -1,14 +1,31 @@
 @import '../helpers/all';
 
-.news{
-  margin: 0.4rem auto;
+.news + .news{
+  margin-top: 1rem;
 }
-.news > h2{
-  margin-top: 0.2rem;
-  font-size: 1.6rem;
 
-  @include media-breakpoint-up(sm){
-    text-align: right;
+.news{
+  display: flex;
+  flex-direction: column;
+
+  h2{
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  p{
+    margin: 0;
+  }
+}
+
+@media($breakpoint-max){
+  .news{
+    flex-direction: row;
+
+    h2{
+      min-width: 12rem;
+      padding: 0.2rem 2rem 0 0;
+      text-align: right;
+    }
   }
 }
 

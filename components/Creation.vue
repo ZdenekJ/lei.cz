@@ -4,29 +4,24 @@
         :title="article.title"
         :description="article.description"
     />
-    <h1 class="text-center">{{ article.title }}</h1>
-    <div class="row" v-show="article.tags">
-      <div class="col-xs-12">
-        <span class="fa fa-tags" title="Seznam tagů"></span>
-        <span
-            class="tags"
-            v-for="(item, index) in article.tags"
-            v-bind:key="index"
-        ><a nohref
-        ><span class="label label-default">{{ item }}</span></a
-        ></span
-        >
-      </div>
-    </div>
+    <h1>{{ article.title }}</h1>
+    <span class="tags" v-show="article.tags">
+      <span class="fa fa-tags" title="Seznam tagů"></span>
+      <span class="label"
+          v-for="(item, index) in article.tags"
+          v-bind:key="index"
+      ><span>{{ item }}</span></span
+      >
+    </span>
     <br v-show="article.tags"/>
     <div v-if="centerArticle" class="text-center">
-      <nuxt-content :document="article"/>
+      <NuxtContent :document="article"/>
     </div>
     <div v-else>
-      <nuxt-content :document="article"/>
+      <NuxtContent :document="article"/>
     </div>
     <footer>
-      <hr class="hr-text"/>
+      <hr/>
       <h5>{{ article.date }}</h5>
       <h6>{{ article.author }}</h6>
     </footer>
@@ -60,9 +55,4 @@ export default {
 
 <style lang="scss">
 
-.nuxt-content{
-  h1{
-    text-align: center;
-  }
-}
 </style>

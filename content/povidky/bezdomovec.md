@@ -17,7 +17,7 @@ Zalezl jsem do křoví a doufal, že nejsem vidět. Mezerou v listí jsem pozoro
 
 Vyplazil jsem se z křoví a pustil se do pizzy. Jestli si myslel, že si ji ze země už nevezmu, tak asi vůbec netuší, co je to hlad. Zhltnul jsem ji do posledního drobku. Pak jsem ještě vypil zbytek Coly z roztržené plechovky. Paráda. Dnešek se vážně povedl.
 
-<hr class="hr-text" data-content="* * *">
+<hr data-content="* * *">
 
 Potuloval jsem se bezcílně parkem, ale nakonec jsem skončil tam, co obvykle. Před tou divnou budovou, jejíž význam jsem nikdy nepochopil. O to víc mě děsila. Něco mi na ní prostě přišlo špatně. Sedl jsem si do trávy a sledoval dění. Proudy lidí střídavě směřovaly dovnitř nebo ven. Byl to zvláštní chaos, který v sobě ale zároveň skrýval určitý řád. Jednoho výrazného týpka jsem vídal skoro každý den. Ráno přišel před východem slunce a vrátil se zpátky ven až v pozdním odpoledni. Takových bylo víc. Jenže už jsem zažil, že z budovy vyšel někdo, koho jsem ještě neviděl. A co hůř, jsem si jistý, že někteří lidé, co vešli, se už nevrátili nikdy. Myslím, že tam mohli zmizet i moji přátelé. Chtěl jsem zjistit, co se tam děje, ale nesebral jsem odvahu se tam vypravit. Třeba bych se taky nevrátil.
 

@@ -1,33 +1,47 @@
 @import '../helpers/all';
 
-.tags {
+.tags{
+  display: inline-block;
+
   .label{
-    display: inline;
+    display: inline-block;
     padding: 0.2rem 0.6rem 0.3rem;
-    color: #000;
     font-size: 75%;
     line-height: 1;
     white-space: nowrap;
     text-align: center;
     background-color: #dedbcf;
     border-radius: 0.25rem;
-  }
-  a:hover,
-  a:focus {
-    text-decoration: none;
-    span {
-      box-shadow: 0 0 1px 2px $border-color-main;
+
+    span{
+      color: #000;
     }
+  }
+  .label + .label{
+    margin-left: 0.4rem;
+  }
+
+  a:hover,
+  a:focus{
+    text-decoration: none;
+    box-shadow: 0 0 1px 2px $border-color-main;
   }
 }
 
-.tag_cloud {
+.tag_cloud{
   display: flex;
   align-items: center;
   margin-bottom: 1.4rem;
   overflow: hidden;
   background: #eeeadc;
   border-radius: 0.8rem;
+
+  @media($breakpoint-max){
+    flex-direction: column;
+    float: right;
+    width: 12rem;
+    margin-left: 2rem;
+  }
 
   h5{
     display: flex;
@@ -38,6 +52,7 @@
     background: #dedbcf;
 
   }
+
   .allTags{
     padding: 0 0.4rem;
   }
@@ -45,42 +60,50 @@
   span{
     display: inline-block;
   }
-  a {
+
+  a{
     display: inline-block;
     min-width: 3rem;
     padding: 11px 7px;
     text-align: center;
     text-decoration: none;
     border-radius: 0.4rem;
-    span {
+
+    span{
       color: #666;
     }
+
     &:hover,
-    &:focus {
+    &:focus{
       background: #dedbcf;
     }
   }
+
   .tag{
     margin: 0.2rem;
   }
-  .tag--small {
-    span {
+
+  .tag--small{
+    span{
       font-size: 70%;
     }
   }
-  .tag--medium {
-    span {
+
+  .tag--medium{
+    span{
       font-size: 95%;
     }
   }
-  .tag--big {
-    span {
+
+  .tag--big{
+    span{
       color: $text-color-main;
       font-size: 105%;
     }
   }
-  .tag--biggest {
-    span {
+
+  .tag--biggest{
+    span{
       color: #000;
       font-weight: bold;
       font-size: 120%;

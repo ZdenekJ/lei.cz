@@ -1,0 +1,21 @@
+@import '../helpers/all';
+
+.post{
+  
+  h4{
+    margin: 1rem 0 0.6rem;
+
+    .fa-user{
+      margin-right: 0.4rem;
+      color: $author-color;
+    }
+
+    small{
+      color: $text-color-secondary;
+      font-size: 75%;
+    }
+  }
+  p{
+    margin: 0 0 1.8rem;
+  }
+}

@@ -25,11 +25,13 @@
       <h5>{{ article.date }}</h5>
       <h6>{{ article.author }}</h6>
     </footer>
+    <Guestbook :slug="article.slug"/>
   </div>
 </template>
 
 <script>
 import SocialHeader from "~/components/SocialHeader.vue";
+import Guestbook from "~/components/Guestbook.vue";
 
 export default {
   name: "Creation",
@@ -49,7 +51,7 @@ export default {
       titleTemplate: `${this.article.title} | Lei.cz`,
     };
   },
-  components: { SocialHeader },
+  components: { SocialHeader, Guestbook },
 };
 </script>
 

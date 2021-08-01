@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import { dateFormat } from "~/helpers/dateFormat.js";
+import { dateFormat } from "@/helpers/dateTimeFormater.js";
 export default {
   head() {
     return {

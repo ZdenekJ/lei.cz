@@ -9,10 +9,10 @@ export function dateFormat(dateString) {
 export function timeFormat(dateString) {
   const d = new Date(dateString);
   const hours = "" + d.getHours();
-  const minutes = "" + d.getMinutes();
+  const minutes = "" + ((d.getMinutes() < 10 ? "0" : "") + d.getMinutes());
   return `${hours}:${minutes}`;
 }
 
 export function dateTimeFormat(dateString) {
-    return dateFormat(dateString) + " " + timeFormat(dateString);
+  return dateFormat(dateString) + " " + timeFormat(dateString);
 }

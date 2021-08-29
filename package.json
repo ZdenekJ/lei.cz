@@ -1,6 +1,6 @@
 {
   "name": "lei.cz",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Web povídek, básniček a myšlenek jednoho pisálka",
   "main": "index.js",
   "scripts": {

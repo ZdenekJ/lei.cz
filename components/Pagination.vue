@@ -20,7 +20,10 @@
       v-bind:key="page.index"
       @click="chnagePage(page.pageNumber)"
       class="pagination__page"
-      v-bind:class="{ 'pagination__page--active': page.isCurrent === true }"
+      v-bind:class="{
+        'pagination__page--active': page.isCurrent === true,
+        'pagination__page--placeholder': page.isPlaceholder === true,
+      }"
     >
       {{ page.displayValue }}
     </span>
@@ -72,31 +75,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
-.pagination {
-  display: flex;
-  margin: 0 auto;
-  justify-content: center;
-}
-.pagination__page {
-  cursor: pointer;
-  display: block;
-  text-align: center;
-  width: 2.4rem;
-  height: 2.4rem;
-  line-height: 2.4rem;
-  border: 1px solid brown;
-}
-.pagination__page + .pagination__page {
-  border-left: 0;
-}
-.pagination__page--active {
-  font-weight: bold;
-  cursor: default;
-}
-.pagination__page--disabled {
-  color: #888;
-  cursor: default;
-}
-</style>

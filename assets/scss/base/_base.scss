@@ -1,37 +1,37 @@
-@import '../helpers/all';
+@import "../helpers/all";
 
 *,
 *::before,
-*::after{
+*::after {
   box-sizing: inherit;
 }
 
-html{
+html {
   box-sizing: border-box;
   background: $background-color-main;
 }
 
 html,
-body{
+body {
   margin: 0;
   padding: 0;
 }
-body{
+body {
   overflow-y: scroll;
 }
-.text-center{
+.text-center {
   text-align: center;
 }
-.container{
-  padding: 1rem;
+.container {
+  padding: 2rem 1rem 1rem;
 }
-a{
+a {
   color: $link-color;
   text-decoration: none;
 }
 a:hover,
 a:focus,
-a:active{
+a:active {
   color: $link-color-active;
   text-decoration: underline;
 }

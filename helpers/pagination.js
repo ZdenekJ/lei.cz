@@ -54,6 +54,7 @@ export function PaginationData(inputData) {
     const element = { ...elementDefault };
     element.index = page;
     element.pageNumber = null;
+    element.isPlaceholder = true;
     element.displayValue = "...";
     output.push(element);
   }
@@ -72,6 +73,7 @@ export function PaginationData(inputData) {
     const element = { ...elementDefault };
     element.index = page;
     element.pageNumber = null;
+    element.isPlaceholder = true;
     element.displayValue = "...";
     output.push(element);
   }

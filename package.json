@@ -1,6 +1,6 @@
 {
   "name": "lei.cz",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Web povídek, básniček a myšlenek jednoho pisálka",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/ZdenekJ/lei.cz#readme",
   "dependencies": {
     "@nuxt/content": "^1.14.0",
+    "@nuxtjs/axios": "^5.13.6",
     "bootstrap": "^5.0.0-beta3",
     "nuxt": "^2.15.4"
   },

@@ -116,7 +116,7 @@ export default {
     fallback: '404.html'
   },
   components: true,
-  modules: ["@nuxt/content"],
+  modules: ["@nuxt/content",'@nuxtjs/axios'],
   hooks: {
     // Transformace MD souboru před parsovanim
     "content:file:beforeParse": (file) => {
@@ -131,4 +131,8 @@ export default {
       }
     },
   },
+  env: {
+    apiHost: process.env.API_URL || 'localhost',
+    apiPort: process.env.API_PORT || 3000
+  }
 };

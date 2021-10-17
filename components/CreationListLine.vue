@@ -1,12 +1,12 @@
 <template>
-  <div class="post">
+  <div class="creation">
     <h3>
       <NuxtLink :to="this.data.path">{{ data.title }}</NuxtLink>
     </h3>
-    <p class="post__description" v-show="data.description">
+    <p class="creation__description" v-show="data.description">
       {{ data.description }}
     </p>
-    <p class="post__info">
+    <p class="creation__info">
       <span class="fa fa-calendar" title="Napsáno dne"></span>
       {{ data.date }}
       <span class="tags" v-show="data.tags">

@@ -3,12 +3,13 @@
     <h1 class="text-center">
       Vzkazník
     </h1>
-    <p>zatím není, ale bude ;)</p>
-    <!-- <Comments></Comments> -->
+    <Guestbook :slug="'guestbook'" :isGuestbook="true"/>
   </article>
 </template>
 
 <script>
+import Guestbook from "~/components/Guestbook.vue";
+
 export default {
   head() {
     return {

@@ -51,7 +51,7 @@ export default {
   },
   async fetch() {
     const url =
-      "http://" +
+      "https://" +
       process.env.apiHost +
       ":" +
       process.env.apiPort +

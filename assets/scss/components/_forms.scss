@@ -1,16 +1,49 @@
-@import '../helpers/all';
+@import "../helpers/all";
 
-.form-control{
+.form-control {
   background: $background-color-main;
   border-color: $border-color-main;
 
-  &:focus{
+  &:focus {
     border-color: $border-color-main;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(255, 153, 0, 0.6);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset,
+      0 0 8px rgba(255, 153, 0, 0.6);
   }
 }
 
-.gb-helper{
+.gb-helper {
   position: absolute;
   left: -1000em;
+}
+
+.pagination {
+  user-select: none;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+.pagination__page {
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  line-height: 2.4rem;
+  border: 1px solid $border-color-main;
+}
+.pagination__page + .pagination__page {
+  border-left: 0;
+}
+.pagination__page--active {
+  background-color: $background-submenu-active;
+  font-weight: bold;
+  cursor: default;
+}
+.pagination__page--disabled {
+  color: #aaa;
+  cursor: default;
+}
+.pagination__page--placeholder {
+  cursor: default;
+  pointer-events: none;
 }

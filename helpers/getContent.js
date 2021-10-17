@@ -1,4 +1,4 @@
-import { dateFormat } from "~/helpers/dateFormat.js";
+import { dateFormat } from "@/helpers/dateTimeFormater.js";
 
 export async function getAsyncOneFileData({ $content, params, dir }) {
   const article = await $content(dir, params.slug).fetch();
